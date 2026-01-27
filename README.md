@@ -7,15 +7,13 @@
     * Mac/Linux: `curl -fsSL https://bun.sh/install | bash`
     * *Nota: Se recomienda la versión más reciente (`bun upgrade`) para compatibilidad con Svelte 5.*
 
-### Configuración
-
-1.  **Clonar el repositorio:**
+2.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/MoonTurtlee/SansaNews.git](https://github.com/MoonTurtlee/SansaNews.git)
+    git clone https://github.com/MoonTurtlee/SansaNews.git
     cd SansaNews
     ```
 
-2.  **Instalacion de dependencias:**
+3.  **Instalacion de dependencias:**
     ```bash
     bun install
     ```
