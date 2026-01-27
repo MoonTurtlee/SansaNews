@@ -13,10 +13,12 @@ node_modules
 Thumbs.db
 
 # Env
+.vscode
 .env
 .env.*
 !.env.example
 !.env.test
+
 
 # Vite
 vite.config.js.timestamp-*
