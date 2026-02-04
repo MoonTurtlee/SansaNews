@@ -42,7 +42,7 @@
                             <NavigationMenu.Item>
                                 <NavigationMenu.Link href={item.href}>
                                     {#snippet child({ props })}
-                                        <a href={item.href} {...props} class={navigationMenuTriggerStyle()}>
+                                        <a href={item.href} {...props} class="bg-transparent focus:bg-transparent hover:bg-transparent active:bg-transparent data-active:bg-transparent data-[state=open]:bg-transparent transition-colors hover:text-primary focus:text-primary {navigationMenuTriggerStyle()}"> 
                                             {item.label}
                                         </a>
                                     {/snippet}

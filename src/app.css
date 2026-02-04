@@ -100,9 +100,8 @@
 @theme inline {
   --font-heading: "Libre Baskerville", serif;
   --font-body: "Source Serif 4", serif;
-  --font-sans: "Source Serif 4", serif; 
 
-  --text-sm: 0.707rem;
+  --text-sm: 0.875rem;
   --text-base: 1rem;
   --text-xl: 1.414rem;
   --text-2xl: 1.999rem;
