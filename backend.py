@@ -29,6 +29,8 @@ def main():
     elif action == "get":
         username = sys.argv[2]
         posts = get_account_posts(username, API_URL, access_token)
+        for post in posts:
+            post = sanitize_post(username, post)
         pprint(posts)
 
 
@@ -80,6 +82,19 @@ def get_account_posts(
             logging.error(response.text)
 
         return []
+
+
+def sanitize_post(username: str, post: dict[str, Any]):  # pyright: ignore[reportExplicitAny]
+    post.pop("id")
+    post["username"] = username
+
+    if "children" in post:
+        children: list[dict[str, Any]] = post["children"]["data"]  # pyright: ignore[reportExplicitAny,reportAny]
+        for child in children:
+            child.pop("id")
+        post["children"] = children
+
+    return post
 
 
 if __name__ == "__main__":
