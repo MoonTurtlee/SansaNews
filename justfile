@@ -1,6 +1,11 @@
 set dotenv-load
+set dotenv-required
 
-python := ".venv/bin/python3"
+python := if os() == "linux" { "python3" } else { "python" }
+venv := if os() == "linux" { ".venv/bin/" } else { ".venv/Scripts/" }
+
+backend := venv + "python backend.py"
+pip := venv + "pip"
 
 # Run dev server
 dev:
@@ -8,12 +13,19 @@ dev:
 
 # Check if user is available
 check username:
-	{{python}} backend.py check {{username}}
+	{{backend}} check {{username}}
 
 # Get user media
 get username:
-	{{python}} backend.py get {{username}}
+	{{backend}} get {{username}}
 
 # Get media from all users in USERS_PATH
 get-all:
-	{{python}} backend.py get --all
+	{{backend}} get --all
+
+# Initialize project enviroment
+init:
+	bun install
+	{{python}} -m venv .venv
+	{{pip}} install --upgrade pip
+	{{pip}} install requests
