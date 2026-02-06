@@ -1,5 +1,6 @@
 set dotenv-load
 set dotenv-required
+set windows-shell := ["powershell.exe", "-c"]
 
 python := if os() == "linux" { "python3" } else { "python" }
 venv := if os() == "linux" { ".venv/bin/" } else { ".venv/Scripts/" }
