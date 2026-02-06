@@ -46,7 +46,9 @@ def main():
         if args.all:
             handle_get_all(config)
         else:
-            handle_get_single(args.username, config)
+            data = get_user_data(args.username, config)
+            media = sanitize_data(args.username, data)
+            pprint(media)
     else:
         parser.print_help()
 
@@ -101,31 +103,19 @@ def get_all_users_media(
 
     media: list[Media] = []
     for username in usernames:
-        user_media = get_user_media(username, config, amount)
-
-        for m in user_media:
-            m = sanitize_post(username, m)
-            media.append(m)
+        user_data = get_user_data(username, config, amount)
+        user_media = sanitize_data(username, user_data)
+        media += user_media
 
     return media
 
 
-def handle_get_single(username: str, config: APIConfig):
-    media = get_user_media(username, config)
-
-    sanitized_media: list[Media] = []
-    for m in media:
-        m = sanitize_post(username, m)
-        sanitized_media.append(m)
-
-    pprint(sanitized_media)
-
-
-def get_user_media(username: str, config: APIConfig, amount: int = 5) -> list[Media]:
+def get_user_data(username: str, config: APIConfig, amount: int = 5) -> dict[str, Any]:
     assert amount > 0, "Amount of media to retrieve must be positive"
 
     fields = f"""
         business_discovery.username({username}){{
+            profile_picture_url,
             media.limit({amount}){{
                 timestamp,caption,media_type,permalink,media_url,
                 children{{media_url,media_type}}
@@ -138,29 +128,41 @@ def get_user_media(username: str, config: APIConfig, amount: int = 5) -> list[Me
     try:
         response = requests.get(config.url, params, timeout=config.timeout_s)
         response.raise_for_status()
-        data = response.json()
-        return data["business_discovery"]["media"]["data"]
+        return response.json()
 
     except requests.exceptions.RequestException as error:
         logging.error(f"Could not connect to Instagram API ({error})")
         if response is not None:
             logging.error(response.text)
 
-        return []
+        return {}
 
 
-def sanitize_post(username: str, original_media: Media) -> Media:
-    media = original_media.copy()
-    media.pop("id", None)
-    media["username"] = username
+def sanitize_data(username: str, data: dict[str, Any]) -> list[Media]:
+    media_list: list[Media] = []
 
-    if "children" in media:
-        children: list[Media] = media["children"]["data"]
+    m: Media
+    for m in data["business_discovery"]["media"]["data"]:
+        media = m.copy()
+
+        # Shared data between media
+        media.pop("id", None)
+        media["username"] = username
+        media["profile_picture_url"] = data["business_discovery"]["profile_picture_url"]
+
+        if "children" not in m:
+            media_list.append(media)
+            continue
+
+        # Clean children
+        children: list[Media] = m["children"]["data"]
         for child in children:
             child.pop("id", None)
-        media["children"] = children
+        m["children"] = children
 
-    return media
+        media_list.append(media)
+
+    return media_list
 
 
 def check_if_creator_account(username: str, config: APIConfig) -> bool:
