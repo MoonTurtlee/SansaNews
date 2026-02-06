@@ -2,7 +2,7 @@
     import * as Card from "$lib/components/ui/card/index.js";
     import { Avatar, AvatarFallback } from "$lib/components/ui/avatar/index.js";
 
-    import media from "../media.json"
+    import media from "$lib/assets/media.json"
 
     // Time conversion
     function timeAgo(dateString: string): string {
