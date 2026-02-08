@@ -1,10 +1,10 @@
 <script lang="ts">
-  import favicon from "$lib/assets/favicon.svg";
-  import * as NavigationMenu from "$lib/components/ui/navigation-menu/index.js";
-  import { navigationMenuTriggerStyle } from "$lib/components/ui/navigation-menu/navigation-menu-trigger.svelte";
-  import * as Card from "$lib/components/ui/card/index.js";
-  import logo from "$lib/assets/logo-sn.png";
   import "../app.css";
+  import * as Card from "$lib/components/ui/card/index.js";
+  import * as NavigationMenu from "$lib/components/ui/navigation-menu/index.js";
+  import favicon from "$lib/assets/favicon.svg";
+  import logo from "$lib/assets/logo-sn.png";
+  import { navigationMenuTriggerStyle } from "$lib/components/ui/navigation-menu/navigation-menu-trigger.svelte";
   import { resolve } from "$app/paths";
 
   const navItems = [

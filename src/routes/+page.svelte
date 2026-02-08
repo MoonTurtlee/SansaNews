@@ -1,14 +1,13 @@
 <script lang="ts">
   import * as Card from "$lib/components/ui/card/index.js";
+  import mediaFile from "$lib/assets/media.json";
   import { Avatar } from "$lib/components/ui/avatar/index.js";
-
-  import media from "$lib/assets/media.json";
 
   // Time conversion
   function timeAgo(dateString: string): string {
-    const date = new Date(dateString);
-    const now = new Date();
-    const seconds = Math.floor((now.getTime() - date.getTime()) / 1000);
+    let date = new Date(dateString);
+    let now = new Date();
+    let seconds = Math.floor((now.getTime() - date.getTime()) / 1000);
 
     let interval = seconds / 31536000;
     if (interval > 1) return `Hace ${Math.floor(interval)} años`;
@@ -29,14 +28,14 @@
   }
 
   // Data map
-  const Posts = media.map((item) => ({
-    description: item.caption || "Sin descripción",
-    image: item.media_url,
-    author: item.username,
-    authorProfile: "https://www.instagram.com/" + item.username,
-    authorAvatar: item.profile_picture_url,
-    permaLink: item.permalink,
-    time: timeAgo(item.timestamp),
+  const mediaList = mediaFile.map((media) => ({
+    caption: media.caption || "Sin descripción",
+    url: media.media_url,
+    username: media.username,
+    profileLink: "https://www.instagram.com/" + media.username,
+    profilePicture: media.profile_picture_url,
+    permalink: media.permalink,
+    datePublished: timeAgo(media.timestamp),
   }));
 </script>
 
@@ -45,7 +44,7 @@
 >
   <section class="w-full overflow-x-hidden">
     <!-- Card -->
-    {#each Posts as post}
+    {#each mediaList as media}
       <Card.Root class="border-0 shadow-none bg-transparent mb-8">
         <Card.Content class="px-0 sm:px-6">
           <div
@@ -56,14 +55,14 @@
             >
               <!-- IG post image -->
               <a
-                href={post.permaLink}
+                href={media.permalink}
                 target="_blank"
                 rel="noopener noreferrer"
                 class="relative w-full h-full group block"
               >
                 <img
-                  src={post.image}
-                  alt="Post de {post.author}"
+                  src={media.url}
+                  alt="Post de {media.username}"
                   referrerpolicy="no-referrer"
                   class="absolute inset-0 w-full h-full object-cover"
                 />
@@ -78,7 +77,7 @@
               <p
                 class="overflow-y-auto text-sm sm:text-base text-foreground leading-relaxed whitespace-pre-line wrap-break-word"
               >
-                {post.description}
+                {media.caption}
               </p>
 
               <!-- Footer -->
@@ -87,7 +86,7 @@
               >
                 <!-- Author info -->
                 <a
-                  href={post.authorProfile}
+                  href={media.profileLink}
                   target="_blank"
                   rel="noopener noreferrer"
                   class="flex items-center gap-2 sm:gap-3 hover:opacity-80 transition-opacity"
@@ -97,19 +96,19 @@
                     <span
                       class="text-base sm:text-base font-semibold text-foreground truncate"
                     >
-                      {post.author}
+                      {media.username}
                     </span>
                     <span
                       class="text-[10px] uppercase text-muted-foreground tracking-wider font-semibold whitespace-nowrap"
                     >
-                      {post.time}
+                      {media.datePublished}
                     </span>
                   </div>
                   <!-- Avatar -->
                   <Avatar class="h-12 w-12 sm:h-15 sm:w-15 shrink-0">
                     <img
-                      src={post.authorAvatar}
-                      alt="Post de {post.author}"
+                      src={media.profilePicture}
+                      alt="Post de {media.username}"
                       referrerpolicy="no-referrer"
                       class="absolute inset-0 w-full h-full object-cover"
                     />
