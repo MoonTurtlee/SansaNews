@@ -15,7 +15,7 @@
 </script>
 
 <main
-  class="w-full max-w-7xl mx-auto px-4 py-4 flex flex-col gap-8 min-h-screen overflow-x-hidden"
+  class="mx-auto flex min-h-screen w-full max-w-7xl flex-col gap-8 overflow-x-hidden px-4 py-4"
 >
   <section class="w-full overflow-x-hidden">
     {#each mediaList as media}

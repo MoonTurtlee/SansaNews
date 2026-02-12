@@ -42,26 +42,26 @@
   href={profileLink}
   target="_blank"
   rel="noopener noreferrer"
-  class="flex items-center gap-2 sm:gap-3 hover:opacity-80 transition-opacity"
+  class="flex items-center gap-2 transition-opacity hover:opacity-80 sm:gap-3"
 >
   <!-- Name and publish time -->
-  <div class="flex flex-col text-right min-w-0">
-    <span class="text-base sm:text-base font-semibold text-foreground truncate">
+  <div class="flex min-w-0 flex-col text-right">
+    <span class="text-foreground truncate text-base font-semibold sm:text-base">
       {username}
     </span>
     <span
-      class="text-[10px] uppercase text-muted-foreground tracking-wider font-semibold whitespace-nowrap"
+      class="text-muted-foreground text-[10px] font-semibold tracking-wider whitespace-nowrap uppercase"
     >
       {formatDatetime(datePublished)}
     </span>
   </div>
   <!-- Avatar -->
-  <Avatar class="h-12 w-12 sm:h-15 sm:w-15 shrink-0">
+  <Avatar class="h-12 w-12 shrink-0 sm:h-15 sm:w-15">
     <img
       src={profilePicture}
       alt="Post de {username}"
       referrerpolicy="no-referrer"
-      class="absolute inset-0 w-full h-full object-cover"
+      class="absolute inset-0 h-full w-full object-cover"
     />
   </Avatar>
 </a>

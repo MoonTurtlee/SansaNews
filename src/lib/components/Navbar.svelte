@@ -5,12 +5,12 @@
   let { navItems } = $props();
 </script>
 
-<div class="hidden md:flex items-center justify-center gap-4">
-  <div class="h-0.5 w-16 bg-primary/40"></div>
+<div class="hidden items-center justify-center gap-4 md:flex">
+  <div class="bg-primary/40 h-0.5 w-16"></div>
 
   <NavigationMenu.Root>
     <NavigationMenu.List
-      class="flex items-center [&>li:not(:last-child)]:after:content-['/'] [&>li:not(:last-child)]:after:mx-1 [&>li:not(:last-child)]:after:text-muted-foreground"
+      class="[&>li:not(:last-child)]:after:text-muted-foreground flex items-center [&>li:not(:last-child)]:after:mx-1 [&>li:not(:last-child)]:after:content-['/']"
     >
       {#each navItems as item}
         <NavigationMenu.Item>
@@ -19,7 +19,7 @@
               <a
                 href={item.href}
                 {...props}
-                class="bg-transparent focus:bg-transparent hover:bg-transparent active:bg-transparent data-active:bg-transparent data-[state=open]:bg-transparent transition-colors hover:text-primary focus:text-primary {navigationMenuTriggerStyle()}"
+                class="hover:text-primary focus:text-primary bg-transparent transition-colors hover:bg-transparent focus:bg-transparent active:bg-transparent data-active:bg-transparent data-[state=open]:bg-transparent {navigationMenuTriggerStyle()}"
               >
                 {item.label}
               </a>
@@ -30,5 +30,5 @@
     </NavigationMenu.List>
   </NavigationMenu.Root>
 
-  <div class="h-0.5 w-16 bg-primary/40"></div>
+  <div class="bg-primary/40 h-0.5 w-16"></div>
 </div>

@@ -5,14 +5,14 @@
 
 <div>
   <!-- Mobile menu button -->
-  <div class="md:hidden flex justify-center">
+  <div class="flex justify-center md:hidden">
     <button
       onclick={() => (mobileMenuOpen = !mobileMenuOpen)}
-      class="p-2 rounded-md hover:bg-primary/10 transition-colors"
+      class="hover:bg-primary/10 rounded-md p-2 transition-colors"
       aria-label="Toggle menu"
     >
       <svg
-        class="w-6 h-6"
+        class="h-6 w-6"
         fill="none"
         stroke="currentColor"
         viewBox="0 0 24 24"
@@ -38,14 +38,14 @@
 
   <!-- Mobile navigation -->
   {#if mobileMenuOpen}
-    <nav class="md:hidden mt-4 border-t pt-4">
+    <nav class="mt-4 border-t pt-4 md:hidden">
       <ul class="flex flex-col gap-2">
         {#each navItems as item}
           <li>
             <a
               href={item.href}
               onclick={() => (mobileMenuOpen = false)}
-              class="block px-4 py-3 rounded-md hover:bg-primary/10 transition-colors hover:text-primary text-center"
+              class="hover:bg-primary/10 hover:text-primary block rounded-md px-4 py-3 text-center transition-colors"
             >
               {item.label}
             </a>

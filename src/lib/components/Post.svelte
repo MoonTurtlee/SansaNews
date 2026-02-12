@@ -6,43 +6,43 @@
   let media: Media = $props();
 </script>
 
-<Card.Root class="border-0 shadow-none bg-transparent mb-8">
+<Card.Root class="mb-8 border-0 bg-transparent shadow-none">
   <Card.Content class="px-0 sm:px-6">
     <div
-      class="bg-card border-2 border-border border-t card-shadow overflow-hidden flex flex-col md:flex-row md:h-82 rounded-lg"
+      class="bg-card border-border card-shadow flex flex-col overflow-hidden rounded-lg border-2 border-t md:h-82 md:flex-row"
     >
       <div
-        class="w-full md:w-auto h-full aspect-square shrink-0 border-b-2 md:border-b-0 md:border-r-2 border-border overflow-hidden"
+        class="border-border aspect-square h-full w-full shrink-0 overflow-hidden border-b-2 md:w-auto md:border-r-2 md:border-b-0"
       >
         <!-- Post image -->
         <a
           href={media.permalink}
           target="_blank"
           rel="noopener noreferrer"
-          class="relative w-full h-full group block"
+          class="group relative block h-full w-full"
         >
           <img
             src={media.url}
             alt="Post de {media.username}"
             referrerpolicy="no-referrer"
-            class="absolute inset-0 w-full h-full object-cover"
+            class="absolute inset-0 h-full w-full object-cover"
           />
         </a>
       </div>
 
       <div
-        class="w-full flex-1 min-w-0 p-4 md:p-4 flex flex-col justify-between"
+        class="flex w-full min-w-0 flex-1 flex-col justify-between p-4 md:p-4"
       >
         <!-- Description -->
         <p
-          class="overflow-y-auto text-sm sm:text-base text-foreground leading-relaxed whitespace-pre-line wrap-break-word"
+          class="text-foreground overflow-y-auto text-sm leading-relaxed wrap-break-word whitespace-pre-line sm:text-base"
         >
           {media.caption}
         </p>
 
         <!-- Footer -->
         <div
-          class="pt-4 border-t-2 border-border flex items-center justify-end shrink-0"
+          class="border-border flex shrink-0 items-center justify-end border-t-2 pt-4"
         >
           <User
             username={media.username}
