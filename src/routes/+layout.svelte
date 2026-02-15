@@ -13,7 +13,6 @@
     { label: "Iniciativas", href: resolve("/iniciativas") },
     { label: "Deportes", href: resolve("/deportes") },
     { label: "Centros Estudiantiles", href: resolve("/centros") },
-    { label: "Guías", href: resolve("/guias") },
     { label: "Sobre Nosotros", href: resolve("/nosotros") },
   ];
 
