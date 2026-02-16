@@ -3,7 +3,8 @@
   import * as Card from "$lib/components/ui/card/index.js";
   import MobileMenu from "$lib/components/MobileMenu.svelte";
   import Navbar from "$lib/components/Navbar.svelte";
-  import logo from "$lib/assets/extended-logo-sn-black.png";
+  import favicon from "$lib/assets/favicon.svg";
+  import logo from "$lib/assets/logo-sn.png";
   import { resolve } from "$app/paths";
 
   const navItems = [
@@ -23,15 +24,7 @@
   <title>SansaNews</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="SansaNews es un medio de comunicación automatizado que visibiliza las iniciativas estudiantiles de la USM" />
-
-  <!-- Iconos -->
-  <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
-  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-  <link rel="shortcut icon" href="/favicon.ico" />
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
-  <meta name="apple-mobile-web-app-title" content="SansaNews" />
-  <meta name="theme-color" content="#03989E" />
-  <link rel="manifest" href="/sansanews.webmanifest" />
+  <link rel="icon" href={favicon} />
 </svelte:head>
 
 <div class="grid grid-cols-12">
