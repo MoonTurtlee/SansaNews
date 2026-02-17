@@ -9,6 +9,7 @@ import json
 import logging
 import os
 from concurrent.futures import ThreadPoolExecutor
+from datetime import datetime, timedelta
 from pprint import pprint
 from typing import Any, TypedDict, final
 
@@ -103,33 +104,36 @@ def handle_get_all(config: APIConfig):
 def get_all_users_media(
     users: list[User],
     config: APIConfig,
-    amount: int = 5,
 ) -> list[Media]:
     assert len(users) > 0, "List of users must not be empty"
-    assert amount > 0, "Amount must be a positive integer"
 
     with ThreadPoolExecutor() as executor:
-        task = functools.partial(process_single_user, config=config, amount=amount)
+        task = functools.partial(process_single_user, config=config)
         results = executor.map(task, users)
 
     media: list[Media] = list(itertools.chain.from_iterable(results))
     return media
 
 
-def process_single_user(user: User, config: APIConfig, amount: int = 5) -> list[Media]:
+def process_single_user(user: User, config: APIConfig) -> list[Media]:
     username = user["username"]
     category = user["category"]
-    user_data = get_user_data(username, config, amount)
+    user_data = get_user_data(username, config)
     return sanitize_data(username, user_data, category)
 
 
-def get_user_data(username: str, config: APIConfig, amount: int = 5) -> dict[str, Any]:
-    assert amount > 0, "Amount of media to retrieve must be positive"
+def get_user_data(
+    username: str, config: APIConfig, since_days: int = 30, max_amount: int = 10
+) -> dict[str, Any]:
+    assert max_amount > 0, "Amount of media to retrieve must be positive"
+
+    date_limit = datetime.now() - timedelta(days=since_days)
+    timestamp = int(date_limit.timestamp())
 
     fields = f"""
         business_discovery.username({username}){{
             profile_picture_url,
-            media.limit({amount}){{
+            media.since({timestamp}).limit({max_amount}){{
                 timestamp,caption,media_type,permalink,media_url,
                 children{{media_url,media_type}}
             }}
@@ -154,8 +158,10 @@ def get_user_data(username: str, config: APIConfig, amount: int = 5) -> dict[str
 def sanitize_data(
     username: str, data: dict[str, Any], category: str = ""
 ) -> list[Media]:
-    media_list: list[Media] = []
+    if "media" not in data["business_discovery"]:
+        return []
 
+    media_list: list[Media] = []
     m: Media
     for m in data["business_discovery"]["media"]["data"]:
         media = m.copy()
