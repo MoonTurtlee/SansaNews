@@ -8,36 +8,36 @@
   import { resolve } from "$app/paths";
 
   const navItems = [
-    { label: "Inicio", shortLabel: "Inicio",
+    { label: "Inicio",
      icon: House, 
      href: resolve("/") 
     },
 
-    { label: "USM", shortLabel: "USM",
+    { label: "USM",
       icon: Building2,  
       href: resolve("/[[category]]", { category: "usm" }) 
     },
 
     {
-      label: "Iniciativas", shortLabel: "Iniciativas",
+      label: "Iniciativas",
       icon: Users,
       href: resolve("/[[category]]", { category: "iniciativas" }),
     },
 
     {
-      label: "Deportes", shortLabel: "Deportes",
+      label: "Deportes",
       icon: Trophy,
       href: resolve("/[[category]]", { category: "deportes" }),
     },
 
     {
-      label: "Centros", shortLabel: "Centros",
+      label: "Centros",
       icon: Megaphone,
       href: resolve("/[[category]]", { category: "centros" }),
     },
 
     { 
-      label: "Sobre Nosotros", shortLabel: "Nosotros", 
+      label: "Sobre Nosotros",
       icon: Info, 
       href: resolve("/nosotros") },
   ];

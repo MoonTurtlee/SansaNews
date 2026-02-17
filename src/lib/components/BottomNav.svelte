@@ -19,7 +19,7 @@
                         class:text-muted-foreground={!isActive}
                     >     
                         <item.icon class="h-5 w-5 mb-1" />
-                        {item.shortLabel}
+                        {item.lablel}
                     </a>
                 </li>
             {/each}
