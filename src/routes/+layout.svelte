@@ -4,34 +4,42 @@
   import * as Card from "$lib/components/ui/card/index.js";
   import BottomNav from "$lib/components/BottomNav.svelte";
   import Navbar from "$lib/components/Navbar.svelte";
-  import logo from "$lib/assets/extended-logo-sn-black.png";
+  import logo from "$lib/assets/extended-logo-black.png";
   import { resolve } from "$app/paths";
 
   const navItems = [
-    { label: "Inicio", icon: House, shortLabel: "Inicio", href: resolve("/") },
+    { label: "Inicio", shortLabel: "Inicio",
+     icon: House, 
+     href: resolve("/") 
+    },
 
-    { label: "USM", icon: Building2, shortLabel: "USM", href: resolve("/[[category]]", { category: "usm" }) },
-    
-    
+    { label: "USM", shortLabel: "USM",
+      icon: Building2,  
+      href: resolve("/[[category]]", { category: "usm" }) 
+    },
+
     {
-      label: "Iniciativas",
+      label: "Iniciativas", shortLabel: "Iniciativas",
       icon: Users,
-      shortLabel: "Iniciativas",
       href: resolve("/[[category]]", { category: "iniciativas" }),
     },
+
     {
-      label: "Deportes",
+      label: "Deportes", shortLabel: "Deportes",
       icon: Trophy,
-      shortLabel: "Deportes",
       href: resolve("/[[category]]", { category: "deportes" }),
     },
+
     {
-      label: "Centros",
+      label: "Centros", shortLabel: "Centros",
       icon: Megaphone,
-      shortLabel: "Centros",
       href: resolve("/[[category]]", { category: "centros" }),
     },
-    { label: "Sobre Nosotros", icon: Info, shortLabel: "Nosotros", href: resolve("/nosotros") },
+
+    { 
+      label: "Sobre Nosotros", shortLabel: "Nosotros", 
+      icon: Info, 
+      href: resolve("/nosotros") },
   ];
 
   let { children } = $props();
@@ -64,7 +72,7 @@
         <Card.Title
           class="text-center text-sm font-bold tracking-widest uppercase"
         >
-          <p>alpha-1.2.0</p>
+          <p>alpha-1.3.0</p>
         </Card.Title>
       </Card.Header>
       <Card.Content class="p-4 text-center">
