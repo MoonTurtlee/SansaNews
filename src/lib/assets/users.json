@@ -1,24 +1,23 @@
 {
-  "users": [
-    "gbu_usm",
-    "cee.idp.usm",
-    "progcompusm",
+  "usm": ["piea.usm"],
+  "iniciativa": [
     "corousmsantiago",
-    "santamariasharks",
-    "gsdc_usm",
-    "piea.usm",
     "donfede.sj",
-    "ceeinf_sj",
-    "balonmano_usm_stgo",
-    "caamec_usm",
-    "xumbra_utfsm",
-    "ceetel.sj",
-    "movimiento.0",
     "fablab_utfsm",
-    "feusam.usm",
+    "gbu_usm",
     "geekusm",
-    "ceic_usm",
+    "movimiento.0",
+    "progcompusm",
+    "xumbra_utfsm"
+  ],
+  "centro de alumnos": [
+    "caamec_usm",
+    "cee.idp.usm",
+    "ceeinf_sj",
     "ceeiqasj",
-    "prestigeleagueusm"
-  ]
+    "ceetel.sj",
+    "ceic_usm",
+    "feusam.usm"
+  ],
+  "deporte": ["balonmano_usm_stgo", "prestigeleagueusm", "santamariasharks"]
 }
