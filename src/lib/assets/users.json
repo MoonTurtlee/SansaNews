@@ -1,6 +1,6 @@
 {
   "usm": ["piea.usm"],
-  "iniciativa": [
+  "iniciativas": [
     "corousmsantiago",
     "donfede.sj",
     "fablab_utfsm",
@@ -10,7 +10,7 @@
     "progcompusm",
     "xumbra_utfsm"
   ],
-  "centro de alumnos": [
+  "centros_de_alumnos": [
     "caamec_usm",
     "cee.idp.usm",
     "ceeinf_sj",
@@ -19,5 +19,5 @@
     "ceic_usm",
     "feusam.usm"
   ],
-  "deporte": ["balonmano_usm_stgo", "prestigeleagueusm", "santamariasharks"]
+  "deportes": ["balonmano_usm_stgo", "prestigeleagueusm", "santamariasharks"]
 }

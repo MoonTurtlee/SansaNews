@@ -8,25 +8,36 @@
 
   const navItems = [
     { label: "Inicio", href: resolve("/") },
-    { label: "USM", href: resolve("/usm") },
-    { label: "Iniciativas", href: resolve("/iniciativas") },
-    { label: "Deportes", href: resolve("/deportes") },
-    { label: "Centros Estudiantiles", href: resolve("/centros") },
+    { label: "USM", href: resolve("/[category]", { category: "usm" }) },
+    {
+      label: "Iniciativas",
+      href: resolve("/[category]", { category: "iniciativas" }),
+    },
+    {
+      label: "Deportes",
+      href: resolve("/[category]", { category: "deportes" }),
+    },
+    {
+      label: "Centros",
+      href: resolve("/[category]", { category: "centros_de_alumnos" }),
+    },
     { label: "Sobre Nosotros", href: resolve("/nosotros") },
   ];
 
   let { children } = $props();
 </script>
 
-
 <div class="grid grid-cols-12">
   <header class="col-span-12 md:col-span-8 md:col-start-3">
     <div class="px-4 py-8">
-
       <!-- Logo -->
       <div class="mb-6">
         <a href={resolve("/")}>
-          <img src={logo} class="mx-auto w-full max-w-lg" alt="SansaNews Logo"/>
+          <img
+            src={logo}
+            class="mx-auto w-full max-w-lg"
+            alt="SansaNews Logo"
+          />
         </a>
       </div>
 

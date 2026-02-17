@@ -2,6 +2,9 @@
   import Post from "$lib/components/Post.svelte";
   import mediaFile from "$lib/assets/media.json";
   import { type Media } from "$lib/types";
+  import type { PageProps } from "./$types";
+
+  let { params }: PageProps = $props();
 
   const mediaList: Media[] = mediaFile.map((media) => ({
     caption: media.caption || "Sin descripción",
@@ -18,7 +21,7 @@
 
 <main class="p-4">
   <section>
-    {#each mediaList as media}
+    {#each mediaList.filter((media) => media.category === params.category) as media}
       <Post {...media} />
     {/each}
   </section>
