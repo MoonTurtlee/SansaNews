@@ -8,18 +8,18 @@
 
   const navItems = [
     { label: "Inicio", href: resolve("/") },
-    { label: "USM", href: resolve("/[category]", { category: "usm" }) },
+    { label: "USM", href: resolve("/[[category]]", { category: "usm" }) },
     {
       label: "Iniciativas",
-      href: resolve("/[category]", { category: "iniciativas" }),
+      href: resolve("/[[category]]", { category: "iniciativas" }),
     },
     {
       label: "Deportes",
-      href: resolve("/[category]", { category: "deportes" }),
+      href: resolve("/[[category]]", { category: "deportes" }),
     },
     {
       label: "Centros",
-      href: resolve("/[category]", { category: "centros_de_alumnos" }),
+      href: resolve("/[[category]]", { category: "centros_de_alumnos" }),
     },
     { label: "Sobre Nosotros", href: resolve("/nosotros") },
   ];
