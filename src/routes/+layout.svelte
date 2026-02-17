@@ -1,18 +1,19 @@
 <script lang="ts">
   import "../app.css";
+  import { House, Building2, Users, Trophy, Megaphone, Info } from '@lucide/svelte';
   import * as Card from "$lib/components/ui/card/index.js";
-  import MobileMenu from "$lib/components/MobileMenu.svelte";
+  import BottomNav from "$lib/components/BottomNav.svelte";
   import Navbar from "$lib/components/Navbar.svelte";
   import logo from "$lib/assets/extended-logo-sn-black.png";
   import { resolve } from "$app/paths";
 
   const navItems = [
-    { label: "Inicio", href: resolve("/") },
-    { label: "USM", href: resolve("/usm") },
-    { label: "Iniciativas", href: resolve("/iniciativas") },
-    { label: "Deportes", href: resolve("/deportes") },
-    { label: "Centros Estudiantiles", href: resolve("/centros") },
-    { label: "Sobre Nosotros", href: resolve("/nosotros") },
+    { label: "Inicio", shortLabel: "Inicio", icon: House, href: resolve("/")},
+    { label: "USM", shortLabel: "USM", icon: Building2, href: resolve("/usm") },
+    { label: "Iniciativas", shortLabel: "Iniciativas", icon: Users, href: resolve("/iniciativas") },
+    { label: "Deportes", shortLabel: "Deportes", icon: Trophy, href: resolve("/deportes") },
+    { label: "Centros Estudiantiles", shortLabel: "Centros", icon: Megaphone, href: resolve("/centros") },
+    { label: "Sobre Nosotros", shortLabel: "Nosotros", icon: Info, href: resolve("/nosotros") },
   ];
 
   let { children } = $props();
@@ -21,7 +22,7 @@
 
 <div class="grid grid-cols-12">
   <header class="col-span-12 md:col-span-8 md:col-start-3">
-    <div class="px-4 py-8">
+    <div class=" md:px-4 md:py-8">
 
       <!-- Logo -->
       <div class="mb-6">
@@ -31,7 +32,7 @@
       </div>
 
       <Navbar {navItems} />
-      <MobileMenu {navItems} />
+      <BottomNav {navItems} />
     </div>
   </header>
 
