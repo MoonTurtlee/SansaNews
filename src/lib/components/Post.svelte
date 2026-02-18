@@ -9,9 +9,9 @@
 <Card.Root class="mb-8 border-0 bg-transparent shadow-none">
   <Card.Content class="px-0">
     <div
-      class="bg-card card-shadow relative flex flex-col overflow-hidden rounded-lg border-2 border-t md:flex-row"
+      class="bg-card card-shadow relative flex flex-col overflow-hidden rounded-lg border-2 border-t lg:flex-row"
     >
-      <div class="border-b-2 md:w-1/3 md:shrink-0 md:border-r-2 md:border-b-0">
+      <div class="border-b-2 lg:w-1/3 lg:shrink-0 lg:border-r-2 lg:border-b-0">
         <!-- Post image -->
         <a href={media.permalink} target="_blank" rel="noopener noreferrer">
           {#if media.type === "VIDEO"}
@@ -36,7 +36,7 @@
       <div class="flex w-full flex-col justify-between p-4">
         <!-- Description -->
         <p
-          class="overflow-y-auto wrap-break-word whitespace-pre-line md:grow md:basis-0"
+          class="overflow-y-auto wrap-break-word whitespace-pre-line lg:grow lg:basis-0"
         >
           {media.caption}
         </p>

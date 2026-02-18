@@ -7,7 +7,7 @@
 
 <div>
     <!-- Bottom Navigation -->
-    <nav class="fixed bottom-0 left-0 right-0 bg-background border-t-2 z-50 md:hidden">
+    <nav class="fixed bottom-0 left-0 right-0 bg-background border-t-2 z-50 lg:hidden">
         <ul class="flex justify-around">
             {#each navItemsFiltered as item}
                 {@const isActive = page.url.pathname === item.href}

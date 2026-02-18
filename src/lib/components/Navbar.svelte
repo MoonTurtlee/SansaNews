@@ -5,7 +5,7 @@
   let { navItems } = $props();
 </script>
 
-<div class="hidden items-center justify-center md:flex">
+<div class="hidden items-center justify-center lg:flex">
   <div class="bg-primary/40 h-0.5 w-16"></div>
 
   <NavigationMenu.Root>
