@@ -1,8 +1,6 @@
 # SansaNews
 
-Iniciativa estudiantil con el objetivo de centralizar las distintas publicaciones de Instagram relacionadas con la vida universitaria. La idea no es adueñarnos de las publicaciones, sino promocionar las diversas iniciativas y eventos que ocurren en la universidad.
-
-> Si quieres que tu iniciativa sea añadida o eliminada de SansaNews, contáctanos en nuestra cuenta de instagram [@SansaNews](https://www.instagram.com/sansanews/).
+SansaNews es una iniciativa estudiantil que busca centralizar las noticias y eventos de la UTFSM en un solo lugar, con el objetivo de facilitar su divulgación en la comunidad sansana.
 
 ## Instalar
 
@@ -64,39 +62,41 @@ Para automatizar la construcción y publicación de la página ocupamos [GitHub 
 - `.github/workflow/backend.yml`, configuración de GitHub Actions para actualizar automáticamente `media.json`.
 - `.github/workflow/deploy.yml`, configuración de GitHub Actions para construir y publicar automáticamente la página al subir un commit a la rama `pages`.
 
-## Consideraciones
+## Preguntas Frecuentes
 
-### Limitación de Peticiones
+**¿Cómo obtienen los posts de Instagram?**
 
-La [API de Instagram](https://developers.facebook.com/docs/instagram-platform) tiene una limitación de 500 peticiones por hora. Se debe tener en cuenta que por cada usuario se necesita una petición para obtener sus posts.
+Ocupamos la [API oficial](https://developers.facebook.com/products/instagram/apis/) de Instagram para obtener los posts legalmente. Esto significa que solo podemos acceder a los posts de cuentas que sean configuradas voluntariamente como profesionales, no podemos acceder a cuentas personales ni privadas ni públicas.
 
-### Cuentas Profesionales
+**¿Las imágenes de los posts son descargadas y guardadas?**
 
-Solo se puede acceder a cuentas que estén configuradas como [Professional Accounts](https://www.facebook.com/business/help/502981923235522), lo que es activado voluntariamente y puede ser desactivado en cualquier momento.
+No, para imágenes y videos ocupamos los enlaces temporales que provee la [API oficial](https://developers.facebook.com/products/instagram/apis/) de Instagram, que duran aproximadamente 4 días. Nada es descargado en el proceso más que la información textual.
 
-Las cuentas que originalmente fueran profesionales, estuvieron en SansaNews, pero posteriormente dejaron de ser profesionales, en a más tardar 1 hora todos sus posts serán borrados.
+**¿Qué pasa si quiero eliminar un post de mi cuenta de Instagram?**
 
-### Links Temporales
+Al recargarse la página cada hora, el post a lo más durará una hora extra en SansaNews. Si se trata de un caso especial un caso especial o urgente, contáctenos directamente mediante nuestra cuenta de Instagram  [@sansanews](https://www.instagram.com/sansanews/) para solucionarlo lo antes posible.
 
-Los links directos de las imagenes (no los links a los posts) son temporales y duran aproximadamente 4 días. Por eso necesitamos de actualización constante de `media.json`, en nuestro caso se actualiza cada 1 hora.
+**¿Cómo puedo añadir/eliminar mi página de SansaNews?**
 
-Esto hace que cualquier post que sea borrado en Instagram y que se haya súbido previamente a SansaNews, será borrado en a más tardar 1 hora.
+En cualquiera de los dos casos, contáctenos directamente mediante nuestra cuenta de Instagram [@sansanews](https://www.instagram.com/sansanews/) para resolverlo lo antes posible.
 
-De todas formas las imagenes y videos **NUNCA** son descargados y guardados localmente, solo se acceden mediante los links temporales proveídos por la API de instagram.
+**¿Por qué actualizan cada 1 hora y no en tiempo real?**
+
+La [API oficial](https://developers.facebook.com/products/instagram/apis/) de Instagram posee un límite de 200 peticiones por hora, por lo que, para no colapsar la API, decidimos actualizar cada hora.
 
 ## Historia
 
-SansaNews surgió originalmente como un proyecto del ramo de `Introducción a la Ingeniería` de primer año en el 2022, desarrollado originalmente por [GlemTheGemini](https://github.com/GlemTheGemini), [RodrigoaldelPlanetaGol](https://github.com/RodrigoalDelPlanetaGol), [juanjo000](https://github.com/juanjo000), y [MoonTurtlee](https://github.com/MoonTurtlee).
+SansaNews surgió originalmente como un proyecto del ramo de `Introducción a la Ingeniería` de primer año en el 2022, desarrollado en un principio por [GlemTheGemini](https://github.com/GlemTheGemini), [RodrigoaldelPlanetaGol](https://github.com/RodrigoalDelPlanetaGol), [juanjo000](https://github.com/juanjo000), y [MoonTurtlee](https://github.com/MoonTurtlee).
 
-La presentación del proyecto fue tan exitosa que muchos querían que se volviera una realidad. Para esto MoonTurtlee buscó a más gente para llevar el proyecto a cabo, entre ellos [LuckJMG](https://www.github.com/LuckJMG).
+La presentación del proyecto fue tan exitosa que muchos querían que se volviera una realidad. Para esto [@MoonTurtlee](https://github.com/MoonTurtlee) buscó a más gente para llevar el proyecto a cabo, entre ellos [LuckJMG](https://www.github.com/LuckJMG).
 
 Inicialmente desarrollado puramente con [Django](https://www.djangoproject.com/), la segunda versión de SansaNews se intentó desarrollar en el verano de 2023.
 
-Pero por falta de conocimiento, y poco tiempo debido a la universidad, no se pudo llevar a cabo, quedando el proyecto en stand-by indefinido.
+Pero por falta de conocimiento, y poco tiempo debido a la universidad, no se pudo llevar a cabo, por lo que el proyecto quedó en stand-by indefinido.
 
-La idea nunca murió, cada semestre escuchamos comentarios sobre como faltaba un lugar que centralizara toda la información y eventos de la U en un solo lugar, y solo podíamos pensar en SansaNews.
+La idea nunca murió, cada semestre escuchamos comentarios sobre cómo faltaba un espacio que centralizara toda la información y eventos de la U en un solo lugar, y solo podíamos pensar en SansaNews.
 
-En verano de 2026, 4 años después de la idea original, en parte por ya tener el conocimiento al estar en último año de carrera y por la necesidad de hacer algo que mostrar, [LuckJMG](https://www.github.com/LuckJMG) y [MoonTurtlee](https://github.com/MoonTurtlee) decidieron revivir el proyecto y hacerlo realidad de una vez por todas. (Necesitaba salir primero Silksong y Hytale)
+En verano de 2026, 4 años después de la idea original, en parte por ya tener el conocimiento al estar en último año de carrera y por la necesidad de hacer algo que mostrar, [LuckJMG](https://www.github.com/LuckJMG) y [MoonTurtlee](https://github.com/MoonTurtlee) decidieron revivir el proyecto y hacerlo realidad de una vez por todas. (Necesitaban salir primero Silksong y Hytale)
 
 ## Agradecimientos
 
