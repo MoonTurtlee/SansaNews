@@ -1,0 +1,59 @@
+export interface Media {
+  caption: string;
+  category: string;
+  datePublished: Date;
+  permalink: string;
+  profileLink: string;
+  profilePicture: string;
+  type: string;
+  url: string;
+  username: string;
+}
+
+export function jsonToMedia(json: any[]): Media[] {
+  return json.map((media: any) => ({
+    caption: media.caption || "Sin descripción",
+    category: media.category,
+    datePublished: new Date(media.timestamp),
+    permalink: media.permalink,
+    profileLink: "https://www.instagram.com/" + media.username,
+    profilePicture: media.profile_picture_url,
+    type: media.media_type,
+    url: media.media_url,
+    username: media.username,
+  }));
+}
+
+export function formatDatetime(datetime: Date): string {
+  let now = new Date();
+
+  let diffSeconds = Math.floor((now.getTime() - datetime.getTime()) / 1000);
+  if (diffSeconds < 60) {
+    return "Hace menos de un minuto";
+  }
+
+  const diffMinutes = Math.floor(diffSeconds / 60);
+  if (diffMinutes < 60) {
+    return `Hace ${diffMinutes} minutos`;
+  }
+
+  const diffHours = Math.floor(diffMinutes / 60);
+  if (diffHours < 24) {
+    if (diffHours === 1) return "Hace 1 hora";
+    return `Hace ${diffHours} horas`;
+  }
+
+  const yesterday = new Date(now);
+  yesterday.setDate(now.getDate() - 1);
+
+  if (
+    datetime.getDate() === yesterday.getDate() &&
+    datetime.getMonth() === yesterday.getMonth() &&
+    datetime.getFullYear() === yesterday.getFullYear()
+  ) {
+    return "Ayer";
+  }
+
+  // DD/MM/YYYY
+  return datetime.toLocaleDateString("en-GB");
+}

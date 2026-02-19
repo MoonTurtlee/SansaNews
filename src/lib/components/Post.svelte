@@ -1,6 +1,6 @@
 <script lang="ts">
   import * as Card from "$lib/components/ui/card/index.js";
-  import { type Media } from "$lib/types";
+  import { type Media } from "$lib/media";
   import User from "$lib/components/User.svelte";
 
   let media: Media = $props();

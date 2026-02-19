@@ -93,7 +93,8 @@ def handle_get_all(config: APIConfig):
 
     media = get_all_users_media(users, config)
     media = sorted(media, key=lambda post: post["timestamp"], reverse=True)
-    data = json.dumps(media, indent=2)
+    data = {"lastUpdate": datetime.now().isoformat(), "media": media}
+    data = json.dumps(data, indent=2)
 
     with open(MEDIA_PATH, "w") as file:
         file.write(data)
