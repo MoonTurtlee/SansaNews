@@ -9,7 +9,7 @@
     Info,
   } from "@lucide/svelte";
   import * as Card from "$lib/components/ui/card/index.js";
-  import BottomNav from "$lib/components/BottomNav.svelte";
+  import MobileNav from "$lib/components/MobileNav.svelte";
   import Navbar from "$lib/components/Navbar.svelte";
   import logo from "$lib/assets/extended-logo-black.png";
   import { resolve } from "$app/paths";
@@ -53,36 +53,25 @@
 </script>
 
 <div class="grid grid-cols-12">
-  <header class="col-span-12 md:col-span-8 md:col-start-3">
-    <div class=" md:px-4 md:py-8">
-      <!-- Logo -->
-      <div class="mb-6">
-        <a href={resolve("/")}>
-          <img
-            src={logo}
-            class="mx-auto w-full max-w-lg"
-            alt="SansaNews Logo"
-          />
-        </a>
-      </div>
-
-      <Navbar {navItems} />
-      <BottomNav {navItems} />
+  <header class="pb-4 col-span-12 lg:col-span-8 lg:col-start-3">
+    <div class="lg:px-4 lg:py-8">
+      <Navbar {navItems} {logo} />
+      <MobileNav {navItems} {logo} />
     </div>
   </header>
 
   <!-- Banner -->
-  <div class="col-span-12 px-4 md:col-span-8 md:col-start-3">
+  <div class="col-span-12 px-4 lg:col-span-8 lg:col-start-3">
     <Card.Root class="gap-0 border-0 py-0">
       <Card.Header class="bg-foreground text-background rounded-t-lg py-2">
         <Card.Title
           class="text-center text-sm font-bold tracking-widest uppercase"
         >
-          <p>alpha-1.3.1</p>
+          <p>beta-1.0.0</p>
         </Card.Title>
       </Card.Header>
       <Card.Content class="p-4 text-center">
-        <h2 class="mb-2 font-[--font-heading] text-xl font-bold md:text-2xl">
+        <h2 class="mb-2 font-[--font-heading] text-xl font-bold lg:text-2xl">
           WORK IN PROGRESS
         </h2>
         <p class="text-muted-foreground text-xs tracking-wide sm:text-sm">
@@ -96,7 +85,7 @@
     </Card.Root>
   </div>
 
-  <div class="col-span-12 md:col-span-8 md:col-start-3">
+  <div class="col-span-12 lg:col-span-8 lg:col-start-3">
     {@render children()}
   </div>
 

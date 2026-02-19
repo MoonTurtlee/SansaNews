@@ -1,9 +1,23 @@
 <script lang="ts">
     import { page } from '$app/state';
+    import { resolve } from '$app/paths';
 
-    let { navItems } = $props();
+    let { navItems, logo } = $props();
 </script>
 
+
+<!-- Logo -->
+<div class="hidden lg:block lg:mb-6">
+  <a href={resolve("/")}>
+    <img
+      src={logo}
+      class="mx-auto w-full max-w-lg"
+      alt="SansaNews Logo"
+    />
+  </a>
+</div>
+
+<!-- Navbar -->
 <div class="hidden items-center justify-center lg:flex">
   
   <div class="bg-primary/40 h-0.5 w-16"></div>
