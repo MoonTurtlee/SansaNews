@@ -72,7 +72,7 @@
         <Card.Title
           class="text-center text-sm font-bold tracking-widest uppercase"
         >
-          <p>alpha-1.3.0</p>
+          <p>alpha-1.3.1</p>
         </Card.Title>
       </Card.Header>
       <Card.Content class="p-4 text-center">
