@@ -3,6 +3,8 @@
   import mediaFile from "$lib/assets/media.json";
   import { type Media } from "$lib/types";
   import type { PageProps } from "./$types";
+  import * as Empty from "$lib/components/ui/empty";
+  import { ImageOff } from "@lucide/svelte";
 
   let { params }: PageProps = $props();
 
@@ -31,6 +33,16 @@
   <section>
     {#each mediaList as media}
       <Post {...media} />
+    {:else}
+      <Empty.Root class="border border-dashed">
+        <Empty.Media variant="icon" class="shadow">
+          <ImageOff class="h-12 w-12" />
+        </Empty.Media>
+        <Empty.Title>Sin publicaciones</Empty.Title>
+        <Empty.Description>
+          No hay publicaciones nuevas en el último mes.
+        </Empty.Description>
+      </Empty.Root>
     {/each}
   </section>
 </main>
