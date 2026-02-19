@@ -42,7 +42,7 @@
     <div class="relative border-b-2">
       <div class="pointer-events-none absolute right-0 top-0 h-full w-8 bg-linear-to-l from-background to-transparent z-50"></div>
       <nav
-        class="flex items-center gap-1 overflow-x-auto scroll-smooth md:justify-center px-3 pb-2"
+        class="flex items-center gap-1 overflow-x-auto scroll-smooth justify-center px-3 pb-2"
         style="scrollbar-width: none;"
       >
         {#each navItemsFiltered as item}
