@@ -1,21 +1,27 @@
 <script lang="ts">
   import "../app.css";
-  import { House, Building2, Users, Trophy, Megaphone, Info } from '@lucide/svelte';
+  import {
+    House,
+    Building2,
+    Users,
+    Trophy,
+    Megaphone,
+    Info,
+  } from "@lucide/svelte";
   import * as Card from "$lib/components/ui/card/index.js";
   import BottomNav from "$lib/components/BottomNav.svelte";
   import Navbar from "$lib/components/Navbar.svelte";
   import logo from "$lib/assets/extended-logo-black.png";
   import { resolve } from "$app/paths";
+  import Footer from "$lib/components/Footer.svelte";
 
   const navItems = [
-    { label: "Inicio",
-     icon: House, 
-     href: resolve("/") 
-    },
+    { label: "Inicio", icon: House, href: resolve("/") },
 
-    { label: "USM",
-      icon: Building2,  
-      href: resolve("/[[category]]", { category: "usm" }) 
+    {
+      label: "USM",
+      icon: Building2,
+      href: resolve("/[[category]]", { category: "usm" }),
     },
 
     {
@@ -36,10 +42,11 @@
       href: resolve("/[[category]]", { category: "centros" }),
     },
 
-    { 
+    {
       label: "Sobre Nosotros",
-      icon: Info, 
-      href: resolve("/nosotros") },
+      icon: Info,
+      href: resolve("/nosotros"),
+    },
   ];
 
   let { children } = $props();
@@ -48,7 +55,6 @@
 <div class="grid grid-cols-12">
   <header class="col-span-12 md:col-span-8 md:col-start-3">
     <div class=" md:px-4 md:py-8">
-
       <!-- Logo -->
       <div class="mb-6">
         <a href={resolve("/")}>
@@ -94,12 +100,5 @@
     {@render children()}
   </div>
 
-  <footer
-    class="text-muted-foreground col-span-12 border-t-3 border-double p-6 text-center text-sm font-medium"
-  >
-    <p class="px-4">
-      SansaNews es un medio de comunicación automatizado que visibiliza las
-      iniciativas estudiantiles de la USM
-    </p>
-  </footer>
+  <Footer />
 </div>

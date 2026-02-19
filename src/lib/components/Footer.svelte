@@ -1,0 +1,50 @@
+<script lang="ts">
+  import { resolve } from "$app/paths";
+  import { Instagram, Github } from "@lucide/svelte";
+</script>
+
+<footer
+  class="text-muted-foreground col-span-12 grid grid-cols-3 justify-evenly gap-8 border-t-3 border-double p-6 px-28"
+>
+  <div>
+    <h4 class="font-heading pb-2">Mapa del Sitio</h4>
+    <ul class="text-xs font-medium">
+      <li>
+        <a class="text-accent underline" href={resolve("/")}>Inicio</a>
+      </li>
+      <li>
+        <a class="text-accent underline" href={resolve("/nosotros")}
+          >Sobre Nosotros</a
+        >
+      </li>
+    </ul>
+  </div>
+  <div>
+    <h4 class="font-heading pb-2">SansaNews</h4>
+    <p class="max-w-sm text-xs font-medium">
+      SansaNews es una iniciativa estudiantil que busca centralizar las noticias
+      y eventos de la UTFSM en un solo lugar, con el objetivo de facilitar su
+      divulgación en la comunidad sansana.
+    </p>
+  </div>
+  <div>
+    <h4 class="font-heading pb-2">Contacto</h4>
+    <ul class="text-xs font-medium">
+      <li>
+        <a href="https://www.instagram.com/sansanews/">
+          <Instagram class="inline h-4 w-4" /> @sansanews
+        </a>
+      </li>
+      <li>
+        <a href="https://www.github.com/MoonTurtlee/SansaNews">
+          <Github class="inline h-4 w-4" /> GitHub
+        </a>
+      </li>
+    </ul>
+  </div>
+  <div class="col-span-3 text-center text-xs font-medium">
+    <p>
+      &copy; {new Date().getFullYear()} SansaNews. Todos los derechos reservados.
+    </p>
+  </div>
+</footer>
