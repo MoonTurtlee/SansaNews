@@ -26,6 +26,8 @@ export function jsonToMedia(json: any[]): Media[] {
 
 export function formatDatetime(then: Date, now: Date = new Date()): string {
   let diffSeconds = Math.floor((now.getTime() - then.getTime()) / 1000);
+  diffSeconds = Math.max(diffSeconds, 0); // Avoid negative values
+
   if (diffSeconds < 60) {
     return "Hace menos de un minuto";
   }

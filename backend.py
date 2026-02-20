@@ -9,7 +9,7 @@ import json
 import logging
 import os
 from concurrent.futures import ThreadPoolExecutor
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from pprint import pprint
 from typing import Any, TypedDict, final
 
@@ -93,7 +93,7 @@ def handle_get_all(config: APIConfig):
 
     media = get_all_users_media(users, config)
     media = sorted(media, key=lambda post: post["timestamp"], reverse=True)
-    data = {"lastUpdate": datetime.now().isoformat(), "media": media}
+    data = {"lastUpdate": datetime.now(timezone.utc).isoformat(), "media": media}
     data = json.dumps(data, indent=2)
 
     with open(MEDIA_PATH, "w") as file:
