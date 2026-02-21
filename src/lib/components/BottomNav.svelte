@@ -1,18 +1,24 @@
 <script lang="ts">
-    import { resolve } from '$app/paths';
-  import { page } from '$app/state';
-    
-  let { navItems, bottomHidden } = $props();
+  import { page } from "$app/state";
+  import type { BottomNavItem, NavGroup } from "./SuperNav.svelte";
 
-  let navItemsFiltered = $derived(navItems.filter((item: any) => item.label === "Sobre Nosotros" || item.label === "Inicio"));
+  let {
+    bottomNavItems,
+    activeGroup,
+    bottomHidden,
+  }: {
+    bottomNavItems: BottomNavItem[];
+    activeGroup: NavGroup | null;
+    bottomHidden: boolean;
+  } = $props();
 
-  // Always highlight "Inicio" when not on "Sobre Nosotros"
-  function isActive(item: any) {
-    if (item.label === "Sobre Nosotros") {
-      return page.url.pathname === item.href;
-    }
-    
-    return page.url.pathname !== resolve("/nosotros");
+  // An item is active if:
+  // 1. his route is the current route or
+  // 2. his `group` is the active group
+  function isActive(item: BottomNavItem): boolean {
+    if (page.url.pathname === item.href) return true;
+    if (activeGroup && item.group === activeGroup) return true;
+    return false;
   }
 </script>
 
@@ -21,14 +27,14 @@
   class:translate-y-full={bottomHidden}
 >
   <ul class="flex justify-around">
-    {#each navItemsFiltered as item}
+    {#each bottomNavItems as item}
       <li>
         <a
           href={item.href}
           class="flex flex-col items-center py-2 text-sm transition-colors"
           class:text-primary={isActive(item)}
           class:text-muted-foreground={!isActive(item)}
-        >    
+        >
           <item.icon class="h-4 w-4 mb-1" />
           {item.label}
         </a>

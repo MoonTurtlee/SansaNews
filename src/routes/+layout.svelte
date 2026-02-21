@@ -1,52 +1,9 @@
 <script lang="ts">
   import "../app.css";
-  import {
-    House,
-    Building2,
-    Users,
-    Trophy,
-    Megaphone,
-    Info,
-  } from "@lucide/svelte";
   import * as Card from "$lib/components/ui/card/index.js";
   import SuperNav from "$lib/components/SuperNav.svelte";
   import logo from "$lib/assets/extended-logo-black.png";
-  import { resolve } from "$app/paths";
   import Footer from "$lib/components/Footer.svelte";
-
-  const navItems = [
-    { label: "Inicio", icon: House, href: resolve("/") },
-
-    {
-      label: "USM",
-      icon: Building2,
-      href: resolve("/[[category]]", { category: "usm" }),
-    },
-
-    {
-      label: "Iniciativas",
-      icon: Users,
-      href: resolve("/[[category]]", { category: "iniciativas" }),
-    },
-
-    {
-      label: "Deportes",
-      icon: Trophy,
-      href: resolve("/[[category]]", { category: "deportes" }),
-    },
-
-    {
-      label: "Centros",
-      icon: Megaphone,
-      href: resolve("/[[category]]", { category: "centros" }),
-    },
-
-    {
-      label: "Sobre Nosotros",
-      icon: Info,
-      href: resolve("/nosotros"),
-    },
-  ];
 
   let { children } = $props();
 </script>
@@ -54,7 +11,7 @@
 <div class="grid grid-cols-12">
   <header class="col-span-12 pb-4 lg:col-span-8 lg:col-start-3">
     <div class="lg:px-4 lg:py-8">
-      <SuperNav {navItems} {logo} />
+      <SuperNav {logo} />
     </div>
   </header>
 
