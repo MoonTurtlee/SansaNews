@@ -9,8 +9,7 @@
     Info,
   } from "@lucide/svelte";
   import * as Card from "$lib/components/ui/card/index.js";
-  import MobileNav from "$lib/components/MobileNav.svelte";
-  import Navbar from "$lib/components/Navbar.svelte";
+  import SuperNav from "$lib/components/SuperNav.svelte";
   import logo from "$lib/assets/extended-logo-black.png";
   import { resolve } from "$app/paths";
   import Footer from "$lib/components/Footer.svelte";
@@ -55,8 +54,7 @@
 <div class="grid grid-cols-12">
   <header class="col-span-12 pb-4 lg:col-span-8 lg:col-start-3">
     <div class="lg:px-4 lg:py-8">
-      <Navbar {navItems} {logo} />
-      <MobileNav {navItems} {logo} />
+      <SuperNav {navItems} {logo} />
     </div>
   </header>
 

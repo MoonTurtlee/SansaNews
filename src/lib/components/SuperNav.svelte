@@ -1,6 +1,7 @@
 <script lang="ts">
     import Topnav from "./Topnav.svelte";
     import BottomNav from "./BottomNav.svelte";
+    import Navbar from "./Navbar.svelte";
     
     let { navItems, logo } = $props();
 
@@ -19,5 +20,6 @@
 <svelte:window onscroll={handleScroll} />
 
 <div class="lg:hidden h-30"></div>
+<Navbar {navItems} {logo} />
 <Topnav {navItems} {logo} {topVisible} />
 <BottomNav {navItems} {bottomHidden} />
