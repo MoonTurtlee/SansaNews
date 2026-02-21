@@ -1,19 +1,23 @@
 <script lang="ts">
-  import { page } from '$app/state';
-  import { resolve } from '$app/paths';
-  import { goto } from '$app/navigation';
+  import { page } from "$app/state";
+  import { goto } from "$app/navigation";
+  import type { NavGroup } from "./SuperNav.svelte";
 
-  let { navItems, logo, topVisible } = $props();
+  let {
+    activeGroup,
+    logo,
+    topVisible,
+  }: {
+    activeGroup: NavGroup | null;
+    logo: string;
+    topVisible: boolean;
+  } = $props();
 
-  let navItemsFiltered = $derived(navItems.filter((item: any) => item.label !== "Sobre Nosotros" && item.label !== "Inicio"));
-
-  let isNosotros = $derived(page.url.pathname === resolve("/nosotros"));
-
-  // Go to home when clicking an active item
-  function handleClick(m: MouseEvent, isActive: boolean) {
+  // If the clicked item is already active: navigate to the root of the group
+  function handleClick(e: MouseEvent, isActive: boolean) {
     if (isActive) {
-      m.preventDefault();
-      goto(resolve("/"));
+      e.preventDefault();
+      goto(activeGroup!.rootHrefs[0]);
     }
   }
 </script>
@@ -23,29 +27,29 @@
   class:-translate-y-full={!topVisible}
 >
   <!-- Logo -->
-  <div 
+  <div
     class="flex justify-center pt-2 pb-2"
-    class:border-b-2={isNosotros}
+    class:border-b-2={!activeGroup}
   >
-    <a href={resolve("/")}>
-      <img 
-        src={logo} 
+    <a href="/">
+      <img
+        src={logo}
         class="w-auto transition-all duration-300"
-        class:h-15={!isNosotros}
-        class:h-24={isNosotros}
-        alt="SansaNews Logo" 
+        class:h-15={activeGroup}
+        class:h-24={!activeGroup}
+        alt="SansaNews Logo"
       />
     </a>
   </div>
 
-  {#if !isNosotros}
+  {#if activeGroup}
     <div class="relative border-b-2">
       <div class="pointer-events-none absolute right-0 top-0 h-full w-8 bg-linear-to-l from-background to-transparent z-50"></div>
       <nav
         class="flex items-center gap-1 overflow-x-auto scroll-smooth justify-center px-3 pb-2"
         style="scrollbar-width: none;"
       >
-        {#each navItemsFiltered as item}
+        {#each activeGroup.items as item}
           {@const isActive = page.url.pathname === item.href}
           <a
             href={item.href}
