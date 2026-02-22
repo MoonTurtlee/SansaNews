@@ -135,8 +135,7 @@ def get_user_data(
         business_discovery.username({username}){{
             profile_picture_url,
             media.since({timestamp}).limit({max_amount}){{
-                timestamp,caption,media_type,permalink,media_url,
-                children{{media_url,media_type}}
+                timestamp,caption,media_type,permalink,media_url
             }}
         }}
     """
