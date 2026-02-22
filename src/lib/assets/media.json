@@ -1,415 +1,215 @@
 {
-  "lastUpdate": "2026-02-21T23:53:50.394855+00:00",
+  "lastUpdate": "2026-02-22T03:24:54.840291+00:00",
   "media": [
     {
       "timestamp": "2026-02-20T19:31:07+0000",
       "caption": "\ud83c\udf93 Recibimos en la USM a Elena Prieto-Rodr\u00edguez, profesora de la Universidad de Newcastle (Australia), quien reflexion\u00f3 sobre g\u00e9nero y STEM desde la investigaci\u00f3n educativa.\n\nLa jornada destac\u00f3 el valor de las mentor\u00edas y la identidad STEM para impulsar la participaci\u00f3n de ni\u00f1as y j\u00f3venes en estas \u00e1reas\ud83d\udd2c\n\n#USM",
       "media_type": "VIDEO",
       "permalink": "https://www.instagram.com/reel/DU_dQLQkrWf/",
-      "media_url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t16/f2/m69/AQNYu8AZZzvlRr2e7HKU1SbMeoGfImD_xE_p-5cSgs3KdVyD3rRfi2-eRivRj1A1qXTzAwgnXVLQc-mPysmHmfN1.mp4?strext=1&_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=Pb-1VPz5RD0Q7kNvwHIj41y&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5NDYxMTM5MzQxMDc2NjcsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6OTcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=218af7bde23c73f9&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQl9YRnlhSDFLeVYwQkVGQU1oYVRjY0ctSFJlYnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0RFNEI2RkMyNUM0MjE3QUZBODBGNUQxNjkxMDY1MTkzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACamkKGiqPngPxUCKAJDMywXQFhZmZmZmZoYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=KKj_rlbMnoUnVe5plLsuSg&edm=AL-3X8kEAAAA&_nc_zt=28&oh=00_Afugtqg_Du7QFgf1aWI0yA-4siFghqrYQy2jsUqwEsd8Hw&oe=69A02D7B",
+      "media_url": "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f2/m69/AQNYu8AZZzvlRr2e7HKU1SbMeoGfImD_xE_p-5cSgs3KdVyD3rRfi2-eRivRj1A1qXTzAwgnXVLQc-mPysmHmfN1.mp4?strext=1&_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_ohc=Pb-1VPz5RD0Q7kNvwH81kMe&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5NDYxMTM5MzQxMDc2NjcsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6OTcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=218af7bde23c73f9&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQl9YRnlhSDFLeVYwQkVGQU1oYVRjY0ctSFJlYnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0RFNEI2RkMyNUM0MjE3QUZBODBGNUQxNjkxMDY1MTkzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACamkKGiqPngPxUCKAJDMywXQFhZmZmZmZoYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=H5oIvLmnH-Vd0HC7TtgZlg&edm=AL-3X8kEAAAA&_nc_zt=28&oh=00_AfsnpkgbvhYJvIskVWPBEg_glmESK2KFNTACZWz6uawAiw&oe=69A065BB",
       "username": "usantamaria",
       "category": "usm",
-      "profile_picture_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.2885-15/333311771_748166123485963_3208501232235070666_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7d201b&_nc_ohc=UT4YvcdmUW0Q7kNvwFBFphQ&_nc_oc=AdltSwTbNnXwXaBnVGsnQqEwsmX-tK1T_nix6V94X8cR-BEiRUHpTFnRCIUZjnmBsMQ&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AL-3X8kEAAAA&oh=00_Afv8PI0oBkumYaD27fiWyd3jn1r8pQeZwmlzzkPkxmwKbA&oe=69A003AD"
+      "profile_picture_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t51.2885-15/333311771_748166123485963_3208501232235070666_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7d201b&_nc_ohc=UT4YvcdmUW0Q7kNvwG5ikl7&_nc_oc=AdnhCQiam5nb8Pe0Jr_kVinf639SESHbMb74H6ihDH6US8ONN1XOltCzfXCkrCgjYrk&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AL-3X8kEAAAA&oh=00_AftBxBdWzURsnVIejefXzi4auVX2K6a3OvPaiT-4oNf7_g&oe=69A03BED"
     },
     {
       "timestamp": "2026-02-20T12:39:13+0000",
       "caption": "\ud83d\udd2c Profesoras e investigadoras USM presentes en la Tabla Peri\u00f3dica de las Mujeres Cient\u00edficas Chilenas 2026.\n\nLa Biblioteca del Congreso Nacional (BCN) present\u00f3 la segunda edici\u00f3n 2026 de la Tabla Peri\u00f3dica de las Mujeres Cient\u00edficas Chilenas, destacando a 118 investigadoras del pa\u00eds. Entre ellas, profesoras y exalumnas de la USM fueron reconocidas por su trayectoria y aporte en \u00e1reas como ingenier\u00eda, inform\u00e1tica, f\u00edsica, biotecnolog\u00eda y matem\u00e1ticas.\n\nLa n\u00f3mina incluye a la Dra. Valeria Bravo Carrasco, Miryam Valenzuela Orme\u00f1o, Daniela Opitz, Marcela Gonz\u00e1lez Pinochet y Mar\u00eda Soledad Torres D\u00edaz, adem\u00e1s de un homenaje p\u00f3stumo a la Dra. Zdenka Barticevic Antonijevic. Esta iniciativa busca visibilizar referentes femeninos y contribuir a disminuir las brechas de g\u00e9nero en STEM.\n\n\ud83d\udcac\u201dFormar parte de la Tabla Peri\u00f3dica de las Cient\u00edficas Chilenas 2026 representa un profundo honor y una reafirmaci\u00f3n de que el trabajo cient\u00edfico serio, riguroso y con impacto social s\u00ed tiene un lugar visible en nuestro pa\u00eds\u201d, se\u00f1ala la Dra. Valeria Bravo Carrasco, investigadora y profesora del Departamento de Ingenier\u00eda en Dise\u00f1o.\n\n#USM #InvestigacionUSM",
       "media_type": "IMAGE",
       "permalink": "https://www.instagram.com/p/DU-thcMDqlW/",
-      "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/640286480_18557089870026039_1631332033033808361_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=BXK05cd-Ef0Q7kNvwH9LAZU&_nc_oc=Admf3aOORYIllItn89jc4GZGIETeuqVAaVIvxv-vv5-UJgz6tlVtdPJR2nPI98mYqXg&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KKj_rlbMnoUnVe5plLsuSg&oh=00_AfsYCSpUVzMiYZu1QrgrxjMeqAsLIwCucuVkGIJr4tlkcA&oe=69A0107F",
+      "media_url": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/640286480_18557089870026039_1631332033033808361_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=BXK05cd-Ef0Q7kNvwG7rFk-&_nc_oc=Adm9zUykXXqUzQ_VO5bBtqgLyCTQrkRwnjP73PaBcesxmBIVzxfVK8Pnw2PDtKCPz-E&_nc_zt=23&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=H5oIvLmnH-Vd0HC7TtgZlg&oh=00_AfuWKY9vW3PgB4VBpgDGbTwvfMyxNhNyFfuatnA4wE4kLw&oe=69A048BF",
       "username": "usantamaria",
       "category": "usm",
-      "profile_picture_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.2885-15/333311771_748166123485963_3208501232235070666_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7d201b&_nc_ohc=UT4YvcdmUW0Q7kNvwFBFphQ&_nc_oc=AdltSwTbNnXwXaBnVGsnQqEwsmX-tK1T_nix6V94X8cR-BEiRUHpTFnRCIUZjnmBsMQ&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AL-3X8kEAAAA&oh=00_Afv8PI0oBkumYaD27fiWyd3jn1r8pQeZwmlzzkPkxmwKbA&oe=69A003AD"
+      "profile_picture_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t51.2885-15/333311771_748166123485963_3208501232235070666_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7d201b&_nc_ohc=UT4YvcdmUW0Q7kNvwG5ikl7&_nc_oc=AdnhCQiam5nb8Pe0Jr_kVinf639SESHbMb74H6ihDH6US8ONN1XOltCzfXCkrCgjYrk&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AL-3X8kEAAAA&oh=00_AftBxBdWzURsnVIejefXzi4auVX2K6a3OvPaiT-4oNf7_g&oe=69A03BED"
     },
     {
       "timestamp": "2026-02-19T03:10:40+0000",
       "caption": "Ya hay fecha para nuestro primer entrenamiento y todav\u00eda est\u00e1s a tiempo de inscribirte!!!\n\u00daltimas semanas \ud83d\udcaa\ud83c\udffb \n#cheerusm\n#usm\n#cheetahs \n#utfsm \n#mechones",
       "media_type": "IMAGE",
       "permalink": "https://www.instagram.com/p/DU7IVmpjrzV/",
-      "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/637225489_17982992648971939_7576986990170734032_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=MkelWNFoaqsQ7kNvwGZOHx2&_nc_oc=AdnnYFtW4SLvT5rJV_S5NpoXQ0wWDQCPN9OlYegNGunhbUrqu0Cq5SrtTDbCOOy2OUs&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=hQGRbPApDjbAkGHnAi9Dpw&oh=00_AfsDTGGh3S2R_1ku3sjSIxS0_YwGeqk2g-E3yUj_1tMM9g&oe=69A01B4C",
+      "media_url": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/637225489_17982992648971939_7576986990170734032_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=MkelWNFoaqsQ7kNvwE5-sCY&_nc_oc=AdkxEdvkvXk7EDkBE_LUgBqx44Duou2vWfXMf2y7eTOW6VqueSkLX7_JwwnFLQe9j6Y&_nc_zt=23&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=snqavjq1AraASMb1-l4cAQ&oh=00_AftWFMMAg1Le7FNFBgLfxc0wFYEPGW0JKBuHX_32KE3mQg&oe=69A0538C",
       "username": "cheer.usm",
       "category": "deportes",
-      "profile_picture_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.2885-15/432270890_388449293823268_5271025207696038034_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=7d201b&_nc_ohc=J2A5_XHCorYQ7kNvwHRdX2N&_nc_oc=AdlUfCsA-n9QOPpOk3MHmvRWJg2_boK32aVba18aychUrVTqOkqDeVY2hK13efWJCz4&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AL-3X8kEAAAA&oh=00_Afshv6J7mp0kM9qHiTzZUb6WsYp5Shz4gCSVmMsDWpfNeA&oe=69A02C43"
+      "profile_picture_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t51.2885-15/432270890_388449293823268_5271025207696038034_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=7d201b&_nc_ohc=J2A5_XHCorYQ7kNvwF2ZOzH&_nc_oc=AdkV5halw7zrRrgtcnZrtabvnOD8vxA8CZLoiUmM6HhaZ1zG72YRn3sMKPa-0jYfvnU&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AL-3X8kEAAAA&oh=00_AftIDkw8LfFxlcVogpreyOCQ04-vBW3wtfdDq-E0aVZOhQ&oe=69A06483"
     },
     {
       "timestamp": "2026-02-18T21:30:00+0000",
       "caption": "\u00a1An\u00f3talo en tu calendario!\ud83d\uddd3\ufe0f\n\nEste 25 de febrero comienzan las clases para estudiantes de primer a\u00f1o\ud83d\ude4b\ud83c\udffb\u200d\u2640\ufe0f\ud83d\ude4b\ud83c\udffc\ud83d\ude4b\ud83c\udffd\u200d\u2642\ufe0f \n\n\u261d\ud83c\udffcTodos los detalles en el Calendario Acad\u00e9mico USM\n\nSi ya est\u00e1s matriculado/a te recomendamos seguir la cuenta institucional de la universidad @\u200cusantamaria y a @\u200cdatae_usm, como tambi\u00e9n revisar tu correo institucional \ud83d\udce8\n\n\u00a1Nos vemos! \ud83d\udcda\n\n#Admisi\u00f3n #usm #LaUniversidadSTEMdeChile",
       "media_type": "IMAGE",
       "permalink": "https://www.instagram.com/p/DU6hbsFiSPZ/",
-      "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/623092131_18560933419007168_7911680632989000425_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=wkS-Xb_gtyUQ7kNvwEtGfo7&_nc_oc=Adnsl8wtXyasLshLhojHc0Lz9juQ8h1JT9ZdtAwyKpyuarOfNZD85DnzJfaoUsivj1I&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KZfVtJscnzUhWCyQd0TVLA&oh=00_AfsmXp9F_TXi3NW8X7CiTCyWUp4R0r2juc0dcnMFfCHbHg&oe=69A00721",
+      "media_url": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/623092131_18560933419007168_7911680632989000425_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=wkS-Xb_gtyUQ7kNvwGCdyme&_nc_oc=Adl1YYqIAwfnic0KYY5oUfFp2PsxULf571lwgZ4WzzvvWVmm-kixkKgL9dgD4OMS2p4&_nc_zt=23&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=s1z3ybjw971Gki062j2Jvg&oh=00_AftpGTGcwW45Es0WyugYAIkMUWgSxeufJNeiiq8vz8Q0lA&oe=69A03F61",
       "username": "admisionusm",
       "category": "usm",
-      "profile_picture_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.75761-15/504326030_18516096751007168_8279246841770563780_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=7d201b&_nc_ohc=asP0xEt48acQ7kNvwFlwah7&_nc_oc=Adnwhh6i1pD-1B28NuXoCX9X6j_umBsuz-ik-BVSMk5zjWW--W8kN03HCyqPyPe0zfs&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AL-3X8kEAAAA&_nc_gid=KZfVtJscnzUhWCyQd0TVLA&oh=00_AfuQEpZ5DbahICP5WeDH1dq_wvIfctqzAchhURRgNfxA7w&oe=69A03054"
+      "profile_picture_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t51.75761-15/504326030_18516096751007168_8279246841770563780_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=7d201b&_nc_ohc=Bgb66bQkqxwQ7kNvwFDDQwP&_nc_oc=AdlIXm2E3LF9AOxyLkuyzOz33Zs_2kTZM1dk1JvC5R72A7lCC_YuOXX3RELfWCKScbo&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AL-3X8kEAAAA&_nc_gid=s1z3ybjw971Gki062j2Jvg&oh=00_AfunwWzYSeO4keWZ1gQMpHdGxJiy2cH1qt3a159ij2ZNEg&oe=69A03054"
     },
     {
       "timestamp": "2026-02-13T12:59:08+0000",
       "caption": "\ud83c\udf1f Con una ceremonia de reconocimiento, la USM dio cierre al Plan de Retiro Institucional 2025, una iniciativa orientada a acompa\u00f1ar a funcionarias y funcionarios en el inicio de una nueva etapa, valorando su trayectoria y el aporte realizado al desarrollo y funcionamiento de la instituci\u00f3n.\n\nDurante el proceso, las y los participantes asistieron a talleres formativos y espacios de reflexi\u00f3n enfocados en el bienestar, la proyecci\u00f3n personal y la toma de decisiones de cara al futuro.\n\n\ud83d\udcac \"Este homenaje marca el cierre de una etapa significativa de sus trayectorias, y tambi\u00e9n de un per\u00edodo en el que la universidad se fortaleci\u00f3 profundamente gracias al compromiso de cada una y cada uno de ustedes\u201d, destac\u00f3 el rector Juan Yuz.\n\n\ud83d\udc4f Agradecemos sinceramente a todas y todos quienes, con su trabajo y vocaci\u00f3n, contribuyeron al crecimiento y fortalecimiento de nuestra universidad.\n\n\u27a1\ufe0f Sigue leyendo en usm.cl [ Finaliza Plan de Retiro Institucional 2025 con ceremonia de reconocimiento ]\n\n#USM #NoticiasUSM #ComunidadUSM",
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DUsu4ZyAOGw/",
-      "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/629423679_18553741459026039_2377670149545194299_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=mR2fd1F82gsQ7kNvwGGY0Hn&_nc_oc=AdlVBWEM7QvK6ZjmK1XPPQq3FNZPaTbR3c392cUkrpijBSJBvzrm3DRp6W5ws9wITWM&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KKj_rlbMnoUnVe5plLsuSg&oh=00_Afsjg7OoG1qY764uqAjM_L4QJkYLkgHsMXxCF8EqboOn8Q&oe=69A0099E",
-      "children": {
-        "data": [
-          {
-            "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/629423679_18553741459026039_2377670149545194299_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=mR2fd1F82gsQ7kNvwGGY0Hn&_nc_oc=AdlVBWEM7QvK6ZjmK1XPPQq3FNZPaTbR3c392cUkrpijBSJBvzrm3DRp6W5ws9wITWM&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KKj_rlbMnoUnVe5plLsuSg&oh=00_Afsjg7OoG1qY764uqAjM_L4QJkYLkgHsMXxCF8EqboOn8Q&oe=69A0099E",
-            "media_type": "IMAGE"
-          },
-          {
-            "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/631359700_18553741486026039_162484479586815699_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=5j6Vb4t-2msQ7kNvwHfcn-j&_nc_oc=AdleToxH9kibxtzQPmDdHyLpVk5sAxpxn1o3M96LARIr8dx_UjmlX6_-7MQ9dHwPzWI&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KKj_rlbMnoUnVe5plLsuSg&oh=00_Afu5Wq5khkWvEDJF1F6kFw7pUH0rU1XVzmrp-Pf-gNh4NQ&oe=69A0093E",
-            "media_type": "IMAGE"
-          },
-          {
-            "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/631896036_18553741498026039_1968055709581807576_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=RhnuKaJ-_WMQ7kNvwHPOtds&_nc_oc=AdlSataF1NAsfxuTLJAPCb5LR-npEPhNBLBv4ZrpwULz2Gmlm0f2oXacSXjXF1edubI&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KKj_rlbMnoUnVe5plLsuSg&oh=00_AfvthDkz1ZCf8A4i7-Imd9YvOqin8ZXHNqZICJlLP7uIuA&oe=69A0213A",
-            "media_type": "IMAGE"
-          },
-          {
-            "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/629539493_18553741513026039_6905698196070385170_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=QA8hNsREwXQQ7kNvwFeSDQV&_nc_oc=AdmHXcllFo-Q2EYl0HCJu6FvsGqQZtJr9V2C4AzYH2tzHnf4jldSdhMUENz0XLJoZWs&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KKj_rlbMnoUnVe5plLsuSg&oh=00_Afu9B_PRQWLwO1svHGFQguUmMXpLTXy_7k_3C8CQ3N-K8w&oe=69A01CE5",
-            "media_type": "IMAGE"
-          },
-          {
-            "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/629181867_18553741537026039_4042752423416034304_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=bVEJqOZTNfUQ7kNvwG8YnqX&_nc_oc=Adl-YV1w_nkYnCqnWJBvLTHNjkEAOf-OCeLYDm-IdeG7xg5OP5cITQIeTDqZMdX94CQ&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KKj_rlbMnoUnVe5plLsuSg&oh=00_AfuEazP-hpBxKRjf1S7cGz2NWDCRyW2Dio7iIzxctsbpfQ&oe=69A024D6",
-            "media_type": "IMAGE"
-          },
-          {
-            "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/629622925_18553741558026039_1968225486884607581_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=UL1KpA6neyQQ7kNvwHnFneT&_nc_oc=Adm5V7icPi7unbhkfGMFCHFExvHt6Yy_S2-o2_XH9BXNuzuKrGFmuhkMM-2k1n5PTnI&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KKj_rlbMnoUnVe5plLsuSg&oh=00_AfuH5GJE9xwL1vGI812Q8bdagIM_llhiXE5qbqc8ewXZIw&oe=69A022BB",
-            "media_type": "IMAGE"
-          }
-        ]
-      },
+      "media_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/629423679_18553741459026039_2377670149545194299_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=mR2fd1F82gsQ7kNvwFSRFw5&_nc_oc=AdkhNIXqkDHlgJlGR8y6zsmMFFrvvcDvgqZsi4h6gHNmHggOhlW9WeI3tNQ2U_poZhw&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=H5oIvLmnH-Vd0HC7TtgZlg&oh=00_AfukTH4o_PWxsJLfJ3pxaa5vIeQD1jNX9ZA4a9gncSc2Xg&oe=69A041DE",
       "username": "usantamaria",
       "category": "usm",
-      "profile_picture_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.2885-15/333311771_748166123485963_3208501232235070666_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7d201b&_nc_ohc=UT4YvcdmUW0Q7kNvwFBFphQ&_nc_oc=AdltSwTbNnXwXaBnVGsnQqEwsmX-tK1T_nix6V94X8cR-BEiRUHpTFnRCIUZjnmBsMQ&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AL-3X8kEAAAA&oh=00_Afv8PI0oBkumYaD27fiWyd3jn1r8pQeZwmlzzkPkxmwKbA&oe=69A003AD"
+      "profile_picture_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t51.2885-15/333311771_748166123485963_3208501232235070666_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7d201b&_nc_ohc=UT4YvcdmUW0Q7kNvwG5ikl7&_nc_oc=AdnhCQiam5nb8Pe0Jr_kVinf639SESHbMb74H6ihDH6US8ONN1XOltCzfXCkrCgjYrk&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AL-3X8kEAAAA&oh=00_AftBxBdWzURsnVIejefXzi4auVX2K6a3OvPaiT-4oNf7_g&oe=69A03BED"
     },
     {
       "timestamp": "2026-02-11T18:41:36+0000",
       "caption": "CEEINF_SJ les desea un Feliz d\u00eda de la mujer en la ciencia \u2728\n\nCelebramos a quienes transforman curiosidad en conocimiento y conocimiento en futuro. \ud83d\udc9c\n\nTambi\u00e9n recordar, que no es solo celebrar si no que es visibilizar, reconocer y crear espacios donde m\u00e1s mujeres puedan investigar, liderar y descubrir. \ud83d\udd2d\n\n#mujeresenlaciencia #diadelamujerenlaciencia #womeninscience #stem #girlsinstem",
       "media_type": "IMAGE",
       "permalink": "https://www.instagram.com/p/DUoMhALDIf2/",
-      "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/631751642_18163716325408960_136127048856539547_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=CalVKVpJRzQQ7kNvwGTxm8l&_nc_oc=Adk8UJtHNVnojrgEvHRYRdALP1pXMmUP0i9Yqz3z1TTgqu6XAIRin6d4wTaMupc7M4Q&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=HPyOmVAUeExU163qGPWR4g&oh=00_AfuvpErhotBasoIzvAGc2hyVNdDDSExnyxBBOfjRRvGv5g&oe=69A007DE",
+      "media_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/631751642_18163716325408960_136127048856539547_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=CalVKVpJRzQQ7kNvwFPwWvj&_nc_oc=AdmxHM6m0PiQSATS3DURQob76SsXfZuLxg4ZFq7Ocd9-OZ8TEISfjIeQbHThyxsFYPo&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=9THDEFoPGrEnE8e3N1rP8A&oh=00_AfsPMMqEf9vAG3roFMkPqFZ8epXCso8wMt8-ssdky0GN-A&oe=69A0401E",
       "username": "ceeinf_sj",
       "category": "centros",
-      "profile_picture_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/523317903_18142511356408960_8282479186824925777_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=7d201b&_nc_ohc=RjGDZn6S0GYQ7kNvwHSxA7P&_nc_oc=AdlQwhfTabV51gzBbUtHsP0hSxHsZzm4fX1sSujXKfIVN_yRuq1n96fIImymMdCOVCY&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AL-3X8kEAAAA&_nc_gid=HPyOmVAUeExU163qGPWR4g&oh=00_AfsY_oqF95LW3sUCuiKzf00CEjKy0Hg64CZPSt9KZJa5Tg&oe=699FFE9E"
+      "profile_picture_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t51.82787-15/523317903_18142511356408960_8282479186824925777_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=7d201b&_nc_ohc=RjGDZn6S0GYQ7kNvwGZAipz&_nc_oc=AdlwQWwoK67ABzjHvGaIb36I70Tnz8DO0lGMR8dek3TaabAkEnnzncGzjudotMsmMAc&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AL-3X8kEAAAA&_nc_gid=9THDEFoPGrEnE8e3N1rP8A&oh=00_Afs29e-rL-TxOOCCn15Sck90VgVttraEDWDPgXfdH2zy3A&oe=69A036DE"
     },
     {
       "timestamp": "2026-02-11T14:30:00+0000",
       "caption": "D\u00eda internacional de la Mujer y la Ni\u00f1a en la Ciencia \ud83d\udc69\ud83c\udffb\u200d\ud83d\udd2c\ud83e\uddea\n\n\u25ab\ufe0fSaludamos a todas aquellas mujeres y ni\u00f1as que se desempe\u00f1an en el \u00e1rea de la ciencia \ud83d\udd2c\n\n\u25ab\ufe0fRecordamos la importancia de lograr el acceso y participaci\u00f3n equitativa en la ciencia para las mujeres y las ni\u00f1as \ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb\ud83d\udce3\n\n\u25ab\ufe0fDestacamos a nuestras acad\u00e9micas, profesionales y estudiantes de la USM que son claves en el desarrollo de la ciencia regional y nacional \ud83d\ude4b\ud83c\udffb\u200d\u2640\ufe0f\n\u200c\n#Admisi\u00f3n #usm #stem #diainternacionaldelamujerylani\u00f1aenciencia #LaUniversidadSTEMdeChile",
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DUnvxMQCakg/",
-      "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/624740036_18560935006007168_7477480155773538858_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=2Do0Sk1nNWAQ7kNvwFVRTfR&_nc_oc=Adn0USjP678xWpCxkM6AwVZNfMKKYPp5nhNBvOEbTJWKNSlK89MBDL5uuKwbHcFAK9E&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KZfVtJscnzUhWCyQd0TVLA&oh=00_AfudDsYOpQNBCDIZ2eBRmvh70V70PpSgjYQ4vUZBj3D7zQ&oe=69A0308C",
-      "children": {
-        "data": [
-          {
-            "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/624740036_18560935006007168_7477480155773538858_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=2Do0Sk1nNWAQ7kNvwFVRTfR&_nc_oc=Adn0USjP678xWpCxkM6AwVZNfMKKYPp5nhNBvOEbTJWKNSlK89MBDL5uuKwbHcFAK9E&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KZfVtJscnzUhWCyQd0TVLA&oh=00_AfudDsYOpQNBCDIZ2eBRmvh70V70PpSgjYQ4vUZBj3D7zQ&oe=69A0308C",
-            "media_type": "IMAGE"
-          },
-          {
-            "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/623938042_18560935015007168_2672831713100290695_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=MfAf7MVfX8gQ7kNvwGiHafF&_nc_oc=AdlyvLfOGKk2T-fBLfyQ0Lb-VTnK-TYouecOdTXJjtazyPBfhvq4tPKih3VlaBQvpoY&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KZfVtJscnzUhWCyQd0TVLA&oh=00_Aftveqi9An0u_JMNGIi3bwkzMhWjWhAFZVuwwZskFEVLhQ&oe=69A0208F",
-            "media_type": "IMAGE"
-          }
-        ]
-      },
+      "media_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/624740036_18560935006007168_7477480155773538858_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=2Do0Sk1nNWAQ7kNvwFiIBiV&_nc_oc=Adl0ThVPLSX3ssgV6sVubk3uKgjWMTTpLUADojfgMJnzRPLOQArVbQ_vm7-fKLsxyW0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=s1z3ybjw971Gki062j2Jvg&oh=00_Afv5LDJ1F37htMrop6rhFNCIN6G-qd6J5G6tJUZDW5XdXQ&oe=69A0308C",
       "username": "admisionusm",
       "category": "usm",
-      "profile_picture_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.75761-15/504326030_18516096751007168_8279246841770563780_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=7d201b&_nc_ohc=asP0xEt48acQ7kNvwFlwah7&_nc_oc=Adnwhh6i1pD-1B28NuXoCX9X6j_umBsuz-ik-BVSMk5zjWW--W8kN03HCyqPyPe0zfs&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AL-3X8kEAAAA&_nc_gid=KZfVtJscnzUhWCyQd0TVLA&oh=00_AfuQEpZ5DbahICP5WeDH1dq_wvIfctqzAchhURRgNfxA7w&oe=69A03054"
+      "profile_picture_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t51.75761-15/504326030_18516096751007168_8279246841770563780_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=7d201b&_nc_ohc=Bgb66bQkqxwQ7kNvwFDDQwP&_nc_oc=AdlIXm2E3LF9AOxyLkuyzOz33Zs_2kTZM1dk1JvC5R72A7lCC_YuOXX3RELfWCKScbo&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AL-3X8kEAAAA&_nc_gid=s1z3ybjw971Gki062j2Jvg&oh=00_AfunwWzYSeO4keWZ1gQMpHdGxJiy2cH1qt3a159ij2ZNEg&oe=69A03054"
     },
     {
       "timestamp": "2026-02-10T15:55:15+0000",
       "caption": "\ud83c\udf93 La USM rindi\u00f3 homenaje a Walter Gaete Castro, primer Doctor en Ingenier\u00eda de la Universidad y de Latinoam\u00e9rica, destacando su legado acad\u00e9mico y humano.\n\n\u2728 Su trayectoria ha dejado una huella en generaciones de estudiantes, tanto por su excelencia acad\u00e9mica como por su calidad humana y cercan\u00eda. \n\n\ud83d\udcac \u201cSer el primer graduado de un programa doctoral implica abrir caminos, asumir desaf\u00edos cuando a\u00fan no exist\u00edan referencias previas y contribuir con convicci\u00f3n y perseverancia a la consolidaci\u00f3n de un proyecto acad\u00e9mico de largo aliento\u201d, se\u00f1al\u00f3 el rector Juan Yuz.\n\n#USM #ComunidadUSM #PostgradosUSM",
       "media_type": "VIDEO",
       "permalink": "https://www.instagram.com/reel/DUlUbtHjjBQ/",
-      "media_url": "https://scontent-iad3-2.cdninstagram.com/o1/v/t16/f2/m69/AQPBJcF4OlROpj0QwjQkXVSKAf8EUGAR3Eubj8m9ibS6ly4UEtl1HasLRylTH1dbk7LhiEZW0uIPQzOW4iU8JZuv.mp4?strext=1&_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=fi-K1FfuhxEQ7kNvwEVFMT_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5NDQwNDg4NzIxMDc2NjcsImFzc2V0X2FnZV9kYXlzIjoxMSwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjQwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=668d865524e0f5c7&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HUHRVc1NWZ0todWNaalVEQUJfNjVjbnVWWmtiYnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0IyNDIwNDgxRTM4MzY0QUY5NkVGMjk5OEM3RjBDRDlEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACamutWtjoHgPxUCKAJDMywXQERd0vGp--cYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=KKj_rlbMnoUnVe5plLsuSg&edm=AL-3X8kEAAAA&_nc_zt=28&oh=00_Afu912pLf_3nAxam00AIzhZVtITGs5dOze3_WUdPwl_ZHA&oe=69A02A98",
+      "media_url": "https://scontent-ord5-3.cdninstagram.com/o1/v/t16/f2/m69/AQPBJcF4OlROpj0QwjQkXVSKAf8EUGAR3Eubj8m9ibS6ly4UEtl1HasLRylTH1dbk7LhiEZW0uIPQzOW4iU8JZuv.mp4?strext=1&_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_ohc=fi-K1FfuhxEQ7kNvwFabVfT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5NDQwNDg4NzIxMDc2NjcsImFzc2V0X2FnZV9kYXlzIjoxMSwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjQwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=668d865524e0f5c7&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HUHRVc1NWZ0todWNaalVEQUJfNjVjbnVWWmtiYnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0IyNDIwNDgxRTM4MzY0QUY5NkVGMjk5OEM3RjBDRDlEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACamutWtjoHgPxUCKAJDMywXQERd0vGp--cYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=H5oIvLmnH-Vd0HC7TtgZlg&edm=AL-3X8kEAAAA&_nc_zt=28&oh=00_AftcVE1Wk43Px0cGrehsdH5VxRBUGi0HxMRYGayRQGIFjw&oe=69A062D8",
       "username": "usantamaria",
       "category": "usm",
-      "profile_picture_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.2885-15/333311771_748166123485963_3208501232235070666_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7d201b&_nc_ohc=UT4YvcdmUW0Q7kNvwFBFphQ&_nc_oc=AdltSwTbNnXwXaBnVGsnQqEwsmX-tK1T_nix6V94X8cR-BEiRUHpTFnRCIUZjnmBsMQ&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AL-3X8kEAAAA&oh=00_Afv8PI0oBkumYaD27fiWyd3jn1r8pQeZwmlzzkPkxmwKbA&oe=69A003AD"
+      "profile_picture_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t51.2885-15/333311771_748166123485963_3208501232235070666_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7d201b&_nc_ohc=UT4YvcdmUW0Q7kNvwG5ikl7&_nc_oc=AdnhCQiam5nb8Pe0Jr_kVinf639SESHbMb74H6ihDH6US8ONN1XOltCzfXCkrCgjYrk&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AL-3X8kEAAAA&oh=00_AftBxBdWzURsnVIejefXzi4auVX2K6a3OvPaiT-4oNf7_g&oe=69A03BED"
     },
     {
       "timestamp": "2026-02-10T12:40:27+0000",
       "caption": "\u200b\u00a1Bienvenidos, generaci\u00f3n 2026 de Telem\u00e1tica! Les deseamos el mayor de los \u00e9xitos.\n\nEn este grupo de WhatsApp podr\u00e1n comunicarse, resolver dudas y enterarse de los pr\u00f3ximos eventos:\n\nhttps://chat.whatsapp.com/Ij0DMirHo5Z4d9sa7LAd2m?mode=gi_c",
       "media_type": "IMAGE",
       "permalink": "https://www.instagram.com/p/DUk-ZHDjelo/",
-      "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/632065110_18143725297476940_3457235466859461682_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=BQsRfrbasx0Q7kNvwFyG5It&_nc_oc=AdkNFPL-GM-E7sXSFoPBX7TjEkdq1VMPsUSX9slMv-cesoNd0IVjKI2AiikwO_eRRko&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=FnUq1Tl1eFb7IKQBYpNXLg&oh=00_AfvNGFGI4_Pp8hdTLYSdPsBQctUIn44bOmIF1LyGhvA1zA&oe=699FFD3B",
+      "media_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/632065110_18143725297476940_3457235466859461682_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=BQsRfrbasx0Q7kNvwHgz678&_nc_oc=AdmsQSL79YwISiwWBCoDSCfKR8wwV5ljH9vLlkoMXMqM99huT2BUAL11fgtgwfZI2B8&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=cAC_VKIl3NptTFKQXlzNQA&oh=00_AfsOHbQWNd-gtUrRRaWmdDjkcIU_K-qM-tRjzsCRNWW1Pg&oe=69A0357B",
       "username": "ceetel.sj",
       "category": "centros",
-      "profile_picture_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.2885-15/326060462_483100683901030_7250735163986346381_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=SNHrk_9wk_4Q7kNvwFVkQ2C&_nc_oc=Adn8Aui-GxhWI3fzQrS4yqHkNydzCRCi4J6FUjTZCQbJbmB2siZ0cL-T4-kHl0Lwvy8&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AL-3X8kEAAAA&oh=00_AfsCodLBgv8Qi-7zL25JblpTeBAvy81Y0Why6Z0lpt3wmQ&oe=69A013C1"
+      "profile_picture_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t51.2885-15/326060462_483100683901030_7250735163986346381_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=SNHrk_9wk_4Q7kNvwEyZzoJ&_nc_oc=AdmLks-XpK7q5oHsDXcX0O-i5k5SsJs68zyNUhvMlnYHq7-FgNZpkPGbuJGKW89YEcw&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AL-3X8kEAAAA&oh=00_AfsGmF-NbooouNBHEmUrLSwxiRgq-PuJOTC7XozE929TUg&oe=69A04C01"
     },
     {
       "timestamp": "2026-02-06T17:39:31+0000",
       "caption": "Oportunidad laboral. La empresa MerQube busca un/a reci\u00e9n egresado/a con disponibilidad para comenzar en marzo en Vi\u00f1a del Mar. El cargo es Index Production Analyst. \n\nPara tener toda la informaci\u00f3n revisa el QR.",
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DUbNcN_Dnww/",
-      "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/626297200_17874105195513359_4704071181174848066_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=zXgosz0Y6HIQ7kNvwFqJiOv&_nc_oc=AdlMprvjGhEVj_jLGKivcnICveGEsnQ70aoV4ASE2um9DBVLaX5RJPE8bSJMK9cOOvo&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=f8M3cxoHokwwrx0NTDOH0Q&oh=00_Afv7sdkKN_WYY-v00MZNshPLoLGhWgHjO0glz9ptewFxyA&oe=69A032C0",
-      "children": {
-        "data": [
-          {
-            "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/626297200_17874105195513359_4704071181174848066_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=zXgosz0Y6HIQ7kNvwFqJiOv&_nc_oc=AdlMprvjGhEVj_jLGKivcnICveGEsnQ70aoV4ASE2um9DBVLaX5RJPE8bSJMK9cOOvo&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=f8M3cxoHokwwrx0NTDOH0Q&oh=00_Afv7sdkKN_WYY-v00MZNshPLoLGhWgHjO0glz9ptewFxyA&oe=69A032C0",
-            "media_type": "IMAGE"
-          },
-          {
-            "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/627751652_17874105192513359_6911240414030010025_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=1SRikW0qM3IQ7kNvwHEIzBX&_nc_oc=AdlVSkTwEZ0yiWPrlHZ4CHhQVo8VhiNz2Ht5r4PEzaEnbFjSpcoNo9i_hWImQ5c7rek&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=f8M3cxoHokwwrx0NTDOH0Q&oh=00_AfulYZ5nDk7dixGvZr0LuV0KKTTbfNcuDRtZIUo5BDm4Ig&oe=69A01C67",
-            "media_type": "IMAGE"
-          }
-        ]
-      },
+      "media_url": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/626297200_17874105195513359_4704071181174848066_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=zXgosz0Y6HIQ7kNvwEAkWTV&_nc_oc=AdkHhPwXzOpdwz_7byD9w4nwFe0fiK0KOitqh2Gm8TlVvpQeJS4JGCjzm8mVAdN4F8A&_nc_zt=23&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=NrEACZ7WQ-w22yPx5nl9_w&oh=00_AfuBXp_bAedQL1poF8m5Y4AN0tPRbmdr6T4MH-RFVO4-Qw&oe=69A032C0",
       "username": "ceemat.usm.sj",
       "category": "centros",
-      "profile_picture_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.75761-15/504514845_17842556637513359_8520009682591271543_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=QJwo4Oa_fHIQ7kNvwGPBEad&_nc_oc=Adl3Tw05tsJuUAWco0ieRdqH3tiavpfIe-tto_HSRG1UHdVyyVsW_qj9TCbV4AZktbc&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AL-3X8kEAAAA&_nc_gid=f8M3cxoHokwwrx0NTDOH0Q&oh=00_AfvCDn0QXm8x7o5lqShUY2sOT1askdsIXtrhcaBT6nczrg&oe=69A02BDD"
+      "profile_picture_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t51.75761-15/504514845_17842556637513359_8520009682591271543_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7d201b&_nc_ohc=QJwo4Oa_fHIQ7kNvwHo1NPc&_nc_oc=AdlLYAfW1t4X4zBtRylYu2z8WvWNP4yG5W9TsJ_ScdVBygHSixS1gzINQot8DFMh3gM&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AL-3X8kEAAAA&_nc_gid=NrEACZ7WQ-w22yPx5nl9_w&oh=00_Afs59Abl8ezkHF37MHhm5P7db4Pi4TNLHKfmSdZW-oylYg&oe=69A0641D"
     },
     {
       "timestamp": "2026-02-04T12:55:37+0000",
       "caption": "\ud83d\ude4c As\u00ed vivimos el lanzamiento de los libros \u201cCarlos Ceruti Gardeaz\u00e1bal Un optimista incorregible\u201d y \u201cGerardo Kunstmann Leuschner, El Gran Industrial\u201d.\n\nEstas obras ponen en valor las trayectorias, aportes y legados de dos figuras relevantes del desarrollo industrial y empresarial del pa\u00eds.\n\nGracias a todos y todas quienes nos acompa\u00f1aron en este importante evento \ud83d\udcda\n\n#USM #ComunidadUSM",
       "media_type": "VIDEO",
       "permalink": "https://www.instagram.com/reel/DUVjPQejrp8/",
-      "media_url": "https://scontent-iad3-2.cdninstagram.com/o1/v/t2/f2/m86/AQM_PscBATcVPX1gWFb4qmgTYkcv4qfccXfOpWtsOPsxCy6hAT_VEDTQPjjoq8Ktg_thdGwcxk6AN02IYXNECR4zd3InDdB9CVb_W5o.mp4?_nc_cat=106&_nc_sid=5e9851&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=tLVRuO-QrS8Q7kNvwENjCQw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5NDI5MzYyNDcxMDc2NjcsImFzc2V0X2FnZV9kYXlzIjoxNywidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjEwNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=6c1716245b93f659&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zNDRGQTBCQTBBREVFQzgyQzBENzgwMTY2NTBEQTdBQl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzE5NDg2RkRDNTk3NEFBM0NGRUQ4QTg1MjgyREQ2OThCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACamgeTTrMDfPxUCKAJDMywXQFqCHKwIMScYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=KKj_rlbMnoUnVe5plLsuSg&edm=AL-3X8kEAAAA&_nc_zt=28&oh=00_Aft1RZj8CVjh4hq3xVSe060540iE7JBn3Jr1rD4D64ArJg&oe=699C14B3",
+      "media_url": "https://scontent-ord5-3.cdninstagram.com/o1/v/t2/f2/m86/AQM_PscBATcVPX1gWFb4qmgTYkcv4qfccXfOpWtsOPsxCy6hAT_VEDTQPjjoq8Ktg_thdGwcxk6AN02IYXNECR4zd3InDdB9CVb_W5o.mp4?_nc_cat=106&_nc_sid=5e9851&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_ohc=tLVRuO-QrS8Q7kNvwEQK32B&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5NDI5MzYyNDcxMDc2NjcsImFzc2V0X2FnZV9kYXlzIjoxNywidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjEwNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=6c1716245b93f659&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zNDRGQTBCQTBBREVFQzgyQzBENzgwMTY2NTBEQTdBQl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzE5NDg2RkRDNTk3NEFBM0NGRUQ4QTg1MjgyREQ2OThCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACamgeTTrMDfPxUCKAJDMywXQFqCHKwIMScYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=H5oIvLmnH-Vd0HC7TtgZlg&edm=AL-3X8kEAAAA&_nc_zt=28&oh=00_AfuqM2ZnqhQDkYFW3iyog2sMkkb6qVNqceLQWz9YdXuG5w&oe=699C4CF3",
       "username": "usantamaria",
       "category": "usm",
-      "profile_picture_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.2885-15/333311771_748166123485963_3208501232235070666_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7d201b&_nc_ohc=UT4YvcdmUW0Q7kNvwFBFphQ&_nc_oc=AdltSwTbNnXwXaBnVGsnQqEwsmX-tK1T_nix6V94X8cR-BEiRUHpTFnRCIUZjnmBsMQ&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AL-3X8kEAAAA&oh=00_Afv8PI0oBkumYaD27fiWyd3jn1r8pQeZwmlzzkPkxmwKbA&oe=69A003AD"
+      "profile_picture_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t51.2885-15/333311771_748166123485963_3208501232235070666_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7d201b&_nc_ohc=UT4YvcdmUW0Q7kNvwG5ikl7&_nc_oc=AdnhCQiam5nb8Pe0Jr_kVinf639SESHbMb74H6ihDH6US8ONN1XOltCzfXCkrCgjYrk&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AL-3X8kEAAAA&oh=00_AftBxBdWzURsnVIejefXzi4auVX2K6a3OvPaiT-4oNf7_g&oe=69A03BED"
     },
     {
       "timestamp": "2026-01-31T14:56:18+0000",
       "caption": "\ud83d\udcf0 Compartimos la publicaci\u00f3n de este s\u00e1bado en laterceracom , que aborda la implementaci\u00f3n de las estaciones de carga solar para veh\u00edculos el\u00e9ctricos en el marco de Punto EV\u26a1\ufe0f\ud83d\udd0b\n\n#USM #USMenPrensa #PuntoEV \nvinculacionusm ac3e_cl infraestructura_usm admisionusm",
       "media_type": "IMAGE",
       "permalink": "https://www.instagram.com/p/DULdSOBDsJI/",
-      "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/624653201_18551543593026039_5232569862996469172_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=u_-7wqaEx4sQ7kNvwFGdkJc&_nc_oc=AdlJ48pYoYmMULMRgw7bWpzil0mCeSr2XMLct-NOr5NGVrD452MKuA0EXZbhb3XxvHc&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KKj_rlbMnoUnVe5plLsuSg&oh=00_AfsBMC5CIu3JU_ZYl9NSEnSu1Sa-R9wRZ-JsdWcCsQdQNw&oe=69A02D45",
+      "media_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/624653201_18551543593026039_5232569862996469172_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=u_-7wqaEx4sQ7kNvwHU6uSa&_nc_oc=AdnkMCtemBNyUYSzWYddnLcA3xNOQpROpKqOnrCbT54Z3x-wOIAAeL7m6KhK11ZDtN0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=H5oIvLmnH-Vd0HC7TtgZlg&oh=00_AfvBTt_uIaR-k3T_PfvzmofapBfoXhuGPSWotolFK9RaRg&oe=69A06585",
       "username": "usantamaria",
       "category": "usm",
-      "profile_picture_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.2885-15/333311771_748166123485963_3208501232235070666_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7d201b&_nc_ohc=UT4YvcdmUW0Q7kNvwFBFphQ&_nc_oc=AdltSwTbNnXwXaBnVGsnQqEwsmX-tK1T_nix6V94X8cR-BEiRUHpTFnRCIUZjnmBsMQ&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AL-3X8kEAAAA&oh=00_Afv8PI0oBkumYaD27fiWyd3jn1r8pQeZwmlzzkPkxmwKbA&oe=69A003AD"
+      "profile_picture_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t51.2885-15/333311771_748166123485963_3208501232235070666_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7d201b&_nc_ohc=UT4YvcdmUW0Q7kNvwG5ikl7&_nc_oc=AdnhCQiam5nb8Pe0Jr_kVinf639SESHbMb74H6ihDH6US8ONN1XOltCzfXCkrCgjYrk&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AL-3X8kEAAAA&oh=00_AftBxBdWzURsnVIejefXzi4auVX2K6a3OvPaiT-4oNf7_g&oe=69A03BED"
     },
     {
       "timestamp": "2026-01-28T21:53:29+0000",
       "caption": "Seguimos compartiendo publicaciones en prensa en el marco de nuestro proceso de Admisi\u00f3n 2026, esta vez de #ElMercurio \n\nUSM, La universidad STEM de Chile.",
       "media_type": "IMAGE",
       "permalink": "https://www.instagram.com/p/DUEfMGIkh2X/",
-      "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/624480064_18550808818026039_2981039601994267716_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=qk4joZegjpoQ7kNvwE4mcxO&_nc_oc=AdkmFFEKfXYoYs6VcjoqlKfIezuHytvIDANcWsih5yDyBH7Py51xb4MG5r6Fhax2QXI&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KKj_rlbMnoUnVe5plLsuSg&oh=00_Afs7D_Qdrk-141KzDFysUTI8fnmsL9thafeGdS6CgxNq2Q&oe=699FFF5F",
+      "media_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/624480064_18550808818026039_2981039601994267716_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=qk4joZegjpoQ7kNvwGWi8yN&_nc_oc=AdkQwyTq90YUbFi7ETDvWlq5JoMtnE_UP2nor9LWJQ_uASOXQiuW0-5myLCAzJk1kNA&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=H5oIvLmnH-Vd0HC7TtgZlg&oh=00_Afu2N_aQQ3cuQRNANZVDarwMXghAk-SS_JiM2ZcXaO2KBQ&oe=69A0379F",
       "username": "usantamaria",
       "category": "usm",
-      "profile_picture_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.2885-15/333311771_748166123485963_3208501232235070666_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7d201b&_nc_ohc=UT4YvcdmUW0Q7kNvwFBFphQ&_nc_oc=AdltSwTbNnXwXaBnVGsnQqEwsmX-tK1T_nix6V94X8cR-BEiRUHpTFnRCIUZjnmBsMQ&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AL-3X8kEAAAA&oh=00_Afv8PI0oBkumYaD27fiWyd3jn1r8pQeZwmlzzkPkxmwKbA&oe=69A003AD"
+      "profile_picture_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t51.2885-15/333311771_748166123485963_3208501232235070666_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7d201b&_nc_ohc=UT4YvcdmUW0Q7kNvwG5ikl7&_nc_oc=AdnhCQiam5nb8Pe0Jr_kVinf639SESHbMb74H6ihDH6US8ONN1XOltCzfXCkrCgjYrk&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AL-3X8kEAAAA&oh=00_AftBxBdWzURsnVIejefXzi4auVX2K6a3OvPaiT-4oNf7_g&oe=69A03BED"
     },
     {
       "timestamp": "2026-01-28T15:41:41+0000",
       "caption": "Sede Concepci\u00f3n celebr\u00f3 la titulaci\u00f3n de una nueva generaci\u00f3n de profesionales \ud83c\udf93\u2728\n\nUn total de 359 egresadas y egresados de carreras t\u00e9cnico-profesionales e ingenier\u00edas recibieron oficialmente su t\u00edtulo profesional durante las dos ceremonias realizadas en la Plaza C\u00edvica de la Sede.\n\nEn representaci\u00f3n de las y los titulados, Jos\u00e9 Pedro Silva, de la carrera de Ingenier\u00eda de Ejecuci\u00f3n en Control e Instrumentaci\u00f3n Industrial ofreci\u00f3 un emotivo discurso en representaci\u00f3n de sus compa\u00f1eras y compa\u00f1eros: \u201cEstoy convencido, desde lo m\u00e1s profundo de mi ser, de que cada uno de nosotros ser\u00e1 un gran profesional en el \u00e1rea en la que decida desempe\u00f1arse, no por mera casualidad, sino por los caminos que hemos tomado\u201d.\n\n\u27a1\ufe0f Revisa la nota completa en usm.cl [ Sede Concepci\u00f3n celebra emotiva ceremonia de titulaci\u00f3n de nuevas y nuevos profesionales ]\n\n\ud83d\udd17 Las fotograf\u00edas de la ceremonia ya se encuentran disponibles en nuestro Flickr y en el enlace de la historia.\n\n#USM #USMConcepci\u00f3n #ComunidadUSM",
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DUD0xFTALFr/",
-      "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/622362501_18550726024026039_8557505622487663842_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=qCRfGAxczBkQ7kNvwE0Y4Oa&_nc_oc=AdnReMTHwWZ3FKN58OhRFiuZs9FIZxFkm-b5xJE3BZl-RUJ3FhxJvqYNhaFUplFfMIM&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KKj_rlbMnoUnVe5plLsuSg&oh=00_Afs5Z1zf8qmX_YPHLNBX2NIV-Hrlh0J0XUFOxnSvlzb8TQ&oe=69A032D6",
-      "children": {
-        "data": [
-          {
-            "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/622362501_18550726024026039_8557505622487663842_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=qCRfGAxczBkQ7kNvwE0Y4Oa&_nc_oc=AdnReMTHwWZ3FKN58OhRFiuZs9FIZxFkm-b5xJE3BZl-RUJ3FhxJvqYNhaFUplFfMIM&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KKj_rlbMnoUnVe5plLsuSg&oh=00_Afs5Z1zf8qmX_YPHLNBX2NIV-Hrlh0J0XUFOxnSvlzb8TQ&oe=69A032D6",
-            "media_type": "IMAGE"
-          },
-          {
-            "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/624697695_18550726045026039_1322561255335104782_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=qPKGqxZNkIkQ7kNvwHMwitI&_nc_oc=AdmkjwZl0ssH4BDyCylrDb_N1yH3IlQFZBnUW3QxltKK3dgvWN7g6HcyQ8BNFqcvocU&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KKj_rlbMnoUnVe5plLsuSg&oh=00_AftWRsrpllT__PdFpZjW72vDEpCD_9myOVoh-zlsvILfIg&oe=69A00B4F",
-            "media_type": "IMAGE"
-          },
-          {
-            "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/623937167_18550726063026039_514845990338949955_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JipZD3NmHoIQ7kNvwEJm-WV&_nc_oc=Adnx5gVRX0V7oMOAqxeT0WB9ovbhVWcts5nApBaZGUnr4BQebXOrl2yG-I_qxT3aU0I&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KKj_rlbMnoUnVe5plLsuSg&oh=00_Aft7YBd8CKeB1Mm_d0ZVWVMMoSZm98pqYnftbJfOk_Y-VQ&oe=69A00AE8",
-            "media_type": "IMAGE"
-          },
-          {
-            "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/623944964_18550726087026039_8599771088734950645_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=1LR_he39ew4Q7kNvwHN25AG&_nc_oc=AdlABVXiwfn7zIJd31l_hgdbhg2CHy2lJ8sHnRwP5cHpf7X6uIQEYsLC1ROBUcFnsuM&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KKj_rlbMnoUnVe5plLsuSg&oh=00_AftmJnOeKMAdKgz14hO2tUfZmFPxNxfij71yJNPD8lq3cQ&oe=69A024DC",
-            "media_type": "IMAGE"
-          },
-          {
-            "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/622428769_18550726108026039_2090693288720053000_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=v5Qv-LhEDq4Q7kNvwHZcF7-&_nc_oc=AdkXz7Rnl9lH5JF6gcBMdlmxkAPezU1mSeSuTatQRHTP_myvNe3Sr65D-AmvL7j39WI&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KKj_rlbMnoUnVe5plLsuSg&oh=00_AfvjOG4g0q9qgkpR0lTOLzctnfei-8B1cYU6h5-4gqZjtw&oe=69A000E2",
-            "media_type": "IMAGE"
-          },
-          {
-            "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/623460544_18550726120026039_1718701578493767685_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=7rjUczdwd3MQ7kNvwEgbCFv&_nc_oc=AdnHg_fE7lqhqLEGHeoBrotRD59vZbbMpoGXe_RAJjpG0lmISxDhYYVnv923mo6_xHo&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KKj_rlbMnoUnVe5plLsuSg&oh=00_AfvgHdNd0dgaXn5_NC_UDGEYhiDsrTEvtz2RfED6dKSHdw&oe=69A019C4",
-            "media_type": "IMAGE"
-          },
-          {
-            "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/622643419_18550726141026039_6657469482957640890_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=_XnaOzgQ9N4Q7kNvwG861IR&_nc_oc=AdkqwUJAD0trLHTyP0bHCD36-iukdQeNsuw7x5KoJXD1g1Vq1_XP32ShP6ybPns_WFM&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KKj_rlbMnoUnVe5plLsuSg&oh=00_AfvPEzLDu3bC3ozE5czJl2lgvNADx2WkFcu3UrRuswzDpQ&oe=69A021E9",
-            "media_type": "IMAGE"
-          },
-          {
-            "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/624731006_18550726168026039_2471481247770998899_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=6uUL4bFArUMQ7kNvwHDk5tp&_nc_oc=AdkdwUXaNfExwcGpi-5zLgwcqL4GPQj-gvpcITBX-HwgXxcJmYxd5CeNtnGpn9kfYRY&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KKj_rlbMnoUnVe5plLsuSg&oh=00_AfsNWerTq6p8DhuJiGM-XnYQDl_dM1_oUQaXMYW7kKftzQ&oe=69A00C5F",
-            "media_type": "IMAGE"
-          },
-          {
-            "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/622543263_18550726216026039_5481624592765057300_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=J6UjxtIYP6IQ7kNvwEAhA-y&_nc_oc=AdnWUQaIpZB7TQuBynl_yhO3vzZSXSdkyqX_U1hM-Qb42iyn9Z9FWfNCpxEu1kKcJjs&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KKj_rlbMnoUnVe5plLsuSg&oh=00_AfuL6xH5kA2N0Bm-SDD4CSdW1Kf30oRsO-P0Ji45Xz5Pqg&oe=699FFFC4",
-            "media_type": "IMAGE"
-          },
-          {
-            "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/623681377_18550726246026039_5491983189020359020_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=kviDKKf29M0Q7kNvwEj0Wqn&_nc_oc=AdnW--y-KeWeqlni6b0P3vPJJqRnnYY_DJ8weqEK0uADAXBtRakNSw0-bb5scLq84rQ&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KKj_rlbMnoUnVe5plLsuSg&oh=00_AfsfrkcxNXAxZbGIOcBlo9tArEC1QNsUy7H7icXn9g_mjw&oe=69A0269F",
-            "media_type": "IMAGE"
-          }
-        ]
-      },
+      "media_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/622362501_18550726024026039_8557505622487663842_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=qCRfGAxczBkQ7kNvwFbRHzG&_nc_oc=Adlc4bJykOs_sirltFsJUdSD70UV5SB9zH9I3lRuX1xxJqjEOKfUD3HIqKJwmBjrY7I&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=H5oIvLmnH-Vd0HC7TtgZlg&oh=00_Aft1LQBf-AlWbpB8lWDGd3mAh2cTKX9APCDiCZ6Vj6axSA&oe=69A032D6",
       "username": "usantamaria",
       "category": "usm",
-      "profile_picture_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.2885-15/333311771_748166123485963_3208501232235070666_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7d201b&_nc_ohc=UT4YvcdmUW0Q7kNvwFBFphQ&_nc_oc=AdltSwTbNnXwXaBnVGsnQqEwsmX-tK1T_nix6V94X8cR-BEiRUHpTFnRCIUZjnmBsMQ&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AL-3X8kEAAAA&oh=00_Afv8PI0oBkumYaD27fiWyd3jn1r8pQeZwmlzzkPkxmwKbA&oe=69A003AD"
+      "profile_picture_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t51.2885-15/333311771_748166123485963_3208501232235070666_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7d201b&_nc_ohc=UT4YvcdmUW0Q7kNvwG5ikl7&_nc_oc=AdnhCQiam5nb8Pe0Jr_kVinf639SESHbMb74H6ihDH6US8ONN1XOltCzfXCkrCgjYrk&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AL-3X8kEAAAA&oh=00_AftBxBdWzURsnVIejefXzi4auVX2K6a3OvPaiT-4oNf7_g&oe=69A03BED"
     },
     {
       "timestamp": "2026-01-27T21:43:05+0000",
       "caption": "\u00a1Participa hasta el 30 de enero! \ud83d\udce2\ud83d\udc9a\nEl Ministerio del Medio Ambiente inici\u00f3 un proceso de consulta ciudadana para evaluar la declaratoria del Ping\u00fcino de Humboldt como Monumento Natural. \ud83d\udc27\n\nEsta medida permitir\u00eda reforzar la protecci\u00f3n legal de la especie y de los ecosistemas de los que depende\ud83c\udf3f, considerando que el Ping\u00fcino de Humboldt se encuentra actualmente clasificado como especie Vulnerable es muy importante protegerlo. \ud83d\udea8\n\nPor ello, te invitamos a entregar observaciones y antecedentes en el marco de esta consulta p\u00fablica, contribuyendo activamente al proceso de declaratoria y a la conservaci\u00f3n de la especie \ud83e\uddfe\n\n\ud83d\udc27Participar tambi\u00e9n es proteger al ping\u00fcino de Humboldt \ud83d\udc27",
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DUB5XZFD2wL/",
-      "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/622298387_18309431182249582_2514516652094737196_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=AQMMe5_05dIQ7kNvwE78aHJ&_nc_oc=AdkAXI1Lp0aTGbRJ1M-erqAIi8IFV8PZXxjRQ-jACgtT2Pk25pVsqQ6m84MZzdVogys&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=Ke6RYSEvHDhnX9sRS8hQ4w&oh=00_AftDYok0bBfjPbJwQA0MmNGzz6ah7oY-CE4XK5xX4SZ9Gw&oe=69A03361",
-      "children": {
-        "data": [
-          {
-            "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/622298387_18309431182249582_2514516652094737196_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=AQMMe5_05dIQ7kNvwE78aHJ&_nc_oc=AdkAXI1Lp0aTGbRJ1M-erqAIi8IFV8PZXxjRQ-jACgtT2Pk25pVsqQ6m84MZzdVogys&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=Ke6RYSEvHDhnX9sRS8hQ4w&oh=00_AftDYok0bBfjPbJwQA0MmNGzz6ah7oY-CE4XK5xX4SZ9Gw&oe=69A03361",
-            "media_type": "IMAGE"
-          },
-          {
-            "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/623257095_18309431209249582_4409922942538749379_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=fEGiuUguvAAQ7kNvwGfsJIM&_nc_oc=Adn8nLwVJTkug4Y6M5EqO9EAUvOvQVYscZEUlW_56DwdU_Q2xwJn09rPb8oYdIFRMSo&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=Ke6RYSEvHDhnX9sRS8hQ4w&oh=00_AfsbYUWnvLNxDpuhxkpM9BinxPOff7OkTy4oYv_ARUVDAQ&oe=69A0253E",
-            "media_type": "IMAGE"
-          },
-          {
-            "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/622929737_18309431227249582_6828343602804469075_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=zhXu765eVUUQ7kNvwGTT3gJ&_nc_oc=AdnqJZ2KkGR_2ei3hcRuqEqi-DuRJ_TcMIJRs3UJ8noiJD_GJp18DM1-CzqcJXxhixE&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=Ke6RYSEvHDhnX9sRS8hQ4w&oh=00_AfvNg_9HLQd9noZ53SEd82g06Q-orotzxMeA_qwqTHtFxQ&oe=69A0201D",
-            "media_type": "IMAGE"
-          },
-          {
-            "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/622484839_18309431200249582_2889102714842938318_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=R3IUSWPHDrAQ7kNvwFbhc3N&_nc_oc=Adm5irin4qLKYOLFkp1GPUuaUmUFydeUm0XG6yiNN8-7ds3k1kumlL8Jbz47dN0oHgw&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=Ke6RYSEvHDhnX9sRS8hQ4w&oh=00_AfvfGUnIXko-R10tpTCMLZkkOKYAeHliEPQbwPT9fTeYLA&oe=69A02171",
-            "media_type": "IMAGE"
-          },
-          {
-            "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/623253383_18309431218249582_8361153467942460302_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=aI_KFcpVJ7IQ7kNvwE0GMLM&_nc_oc=AdkMwC1B2_Eqee4WlH7enM0DNPMxZ2ijj_k3138bhe0iXOGQWnDRFBDHrXh5H1q1ygw&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=Ke6RYSEvHDhnX9sRS8hQ4w&oh=00_AfvlQBs7QxHtXjZt62pcHUKoNTQWNhPTl_KsRa8zMbeF3Q&oe=69A00AB7",
-            "media_type": "IMAGE"
-          },
-          {
-            "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/622922952_18309431191249582_3411929153739336440_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=_XIpbXwjwx4Q7kNvwFjd2PC&_nc_oc=Adl5CiAOcIVSU-YhxXsg1hFnof9GQNkiVTCZRlqxCAO_f0-3CqvsOAlUemDRgH7Zn8M&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=Ke6RYSEvHDhnX9sRS8hQ4w&oh=00_AfvqEhsi6fVsuskWLw3TydWkb6fjoCeHXEabzfqHtE8JXg&oe=69A0248E",
-            "media_type": "IMAGE"
-          },
-          {
-            "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/623285871_18309431173249582_5841301371844902604_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=r6mcUtfKyIIQ7kNvwHNQP8I&_nc_oc=AdlD7ichkMUB1Ih9DLUl8wpsbdF-CHebX6QErGw5wgQTPoeLrsjS47gvloBK6lKq5RM&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=Ke6RYSEvHDhnX9sRS8hQ4w&oh=00_Aft4jjvd-S6d9kqASeJkHUpQIaOvr28bByWMaQpZI8S1Dw&oe=69A0181E",
-            "media_type": "IMAGE"
-          }
-        ]
-      },
+      "media_url": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/622298387_18309431182249582_2514516652094737196_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=AQMMe5_05dIQ7kNvwFKyFvF&_nc_oc=AdkLuQzFEtmKOVhnYmPE9qhrKtB5nBc8kRcU1cBK1cBZe81g7rWBhXs-EjDlZ6AAgsQ&_nc_zt=23&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=_qsEPBnJC-TDKs_J4OWhjg&oh=00_AfvJiroYQEFqLSfBdx7HF2UPCZXSsEpLxlfsgQUUJy96jw&oe=69A03361",
       "username": "movimiento.0",
       "category": "iniciativas",
-      "profile_picture_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.2885-15/104416590_292539335204640_4669643843261435913_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=7d201b&_nc_ohc=m8XLGZgjIbIQ7kNvwETI_y4&_nc_oc=AdlFKxCymJR3kRgrstIl0IXOfm8JAP4ywBR6ql2J0wiZcgTCyA33cnfFuPhJLZMluq4&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AL-3X8kEAAAA&oh=00_Afs1eH0mKi50IoprPkR2DgizRzpwsqxSQLy-hAhq9boy5Q&oe=69A0262F"
+      "profile_picture_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t51.2885-15/104416590_292539335204640_4669643843261435913_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=7d201b&_nc_ohc=m8XLGZgjIbIQ7kNvwGKTgYa&_nc_oc=AdmYsgCx6wa6K6y0beI-t8vN8jFAomkii7Lw25_0R5aNlV8kLAOSweCzC_DqfD8-jw8&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AL-3X8kEAAAA&oh=00_AfvKNB2JlH60j4Mimt23l675wZNwXZ9TW17BEZGdnFF-ug&oe=69A05E6F"
     },
     {
       "timestamp": "2026-01-27T12:12:48+0000",
       "caption": "Compartimos con ustedes publicaciones de lungram y diariofinanciero en el marco de nuestro proceso de Admisi\u00f3n 2026.\n\nUSM, la universidad STEM de Chile.\n\n#USM #LaUniversidadSTEMdeChile",
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DUA4GcfjrBD/",
-      "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/623138134_18550453024026039_2800926464245781343_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ynKofJcqWSkQ7kNvwHjiiIu&_nc_oc=AdngieeebYhzWfvhsOESvOWY8zvrxZNGdjBT6etdFTdR9QyIkGs8up5G5BECjvyhv6M&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KKj_rlbMnoUnVe5plLsuSg&oh=00_AfuLA4ieaQjiPW5zDQFaHjdKs7Etyr_BqIkb40XA2280OQ&oe=69A00408",
-      "children": {
-        "data": [
-          {
-            "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/623138134_18550453024026039_2800926464245781343_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ynKofJcqWSkQ7kNvwHjiiIu&_nc_oc=AdngieeebYhzWfvhsOESvOWY8zvrxZNGdjBT6etdFTdR9QyIkGs8up5G5BECjvyhv6M&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KKj_rlbMnoUnVe5plLsuSg&oh=00_AfuLA4ieaQjiPW5zDQFaHjdKs7Etyr_BqIkb40XA2280OQ&oe=69A00408",
-            "media_type": "IMAGE"
-          },
-          {
-            "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/621748799_18550453033026039_2873561823402340206_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=N5MqVRxK2zAQ7kNvwE2LBb7&_nc_oc=AdnWn6fE-t2pCMR20ZBTv_GnRO9vV5VA4ZSXOGLUEIt8mccICcTqylHG5w99T2AFMmI&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KKj_rlbMnoUnVe5plLsuSg&oh=00_AfvacGKSPclnspCR0djBO1TfwJHI9INqldt8SgiV4tIgGw&oe=69A021C4",
-            "media_type": "IMAGE"
-          }
-        ]
-      },
+      "media_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/623138134_18550453024026039_2800926464245781343_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ynKofJcqWSkQ7kNvwEIlc8f&_nc_oc=AdkoHhpEFqQKupWhFEoivzCdroKWfGnWDJRuRb84-35aSq7JwTB-qN4OW3PpyVnqJKA&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=H5oIvLmnH-Vd0HC7TtgZlg&oh=00_AftAR1JRoWIkNOhu1QCbxeD6Jjy8aKYxu6dkSnEogyzU1A&oe=69A03C48",
       "username": "usantamaria",
       "category": "usm",
-      "profile_picture_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.2885-15/333311771_748166123485963_3208501232235070666_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7d201b&_nc_ohc=UT4YvcdmUW0Q7kNvwFBFphQ&_nc_oc=AdltSwTbNnXwXaBnVGsnQqEwsmX-tK1T_nix6V94X8cR-BEiRUHpTFnRCIUZjnmBsMQ&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AL-3X8kEAAAA&oh=00_Afv8PI0oBkumYaD27fiWyd3jn1r8pQeZwmlzzkPkxmwKbA&oe=69A003AD"
+      "profile_picture_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t51.2885-15/333311771_748166123485963_3208501232235070666_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7d201b&_nc_ohc=UT4YvcdmUW0Q7kNvwG5ikl7&_nc_oc=AdnhCQiam5nb8Pe0Jr_kVinf639SESHbMb74H6ihDH6US8ONN1XOltCzfXCkrCgjYrk&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AL-3X8kEAAAA&oh=00_AftBxBdWzURsnVIejefXzi4auVX2K6a3OvPaiT-4oNf7_g&oe=69A03BED"
     },
     {
       "timestamp": "2026-01-26T21:48:13+0000",
       "caption": "\ud83d\udce3 \u00a1En Admisi\u00f3n USM estamos de forma presencial y online esta semana!\n\nSi fuiste seleccionado/a o tienes dudas sobre admisi\u00f3n o matr\u00edcula, nuestro equipo est\u00e1 disponible para ayudarte de manera presencial y online. \ud83e\ude75\n\n\ud83d\udd58 Horario de atenci\u00f3n: 9:00 a 17:00 hrs.\n\ud83d\udccd Campus Casa Central Valpara\u00edso, Campus San Joaqu\u00edn, Campus Vitacura, Sede Vi\u00f1a del Mar y Sede Concepci\u00f3n.\n\ud83d\udcbb Atenci\u00f3n online: Whatsapp y chat en usm.cl\n\ud83d\udcf2 Tel\u00e9fono Admisi\u00f3n: +56 32 265 4600\n\n\ud83c\udf93 \u00a1Te acompa\u00f1amos en este importante paso!",
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DT_VKEfCQiR/",
-      "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/622053273_18560021008007168_1098539267871890921_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=J_VdZmJEnYUQ7kNvwG39yC4&_nc_oc=AdkpFy8uftN7r75AY9O8LVlUOSmWW3TvjryKnzqhd5brd4tUXoeAQGmxAP8p-kEr6Do&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KZfVtJscnzUhWCyQd0TVLA&oh=00_Aftkfl0RVgccSoN8saCEnFoaw9t56aJqkgD4oy6GvZwE7Q&oe=69A0186E",
-      "children": {
-        "data": [
-          {
-            "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/622053273_18560021008007168_1098539267871890921_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=J_VdZmJEnYUQ7kNvwG39yC4&_nc_oc=AdkpFy8uftN7r75AY9O8LVlUOSmWW3TvjryKnzqhd5brd4tUXoeAQGmxAP8p-kEr6Do&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KZfVtJscnzUhWCyQd0TVLA&oh=00_Aftkfl0RVgccSoN8saCEnFoaw9t56aJqkgD4oy6GvZwE7Q&oe=69A0186E",
-            "media_type": "IMAGE"
-          },
-          {
-            "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/623170810_18560021017007168_1668506164878205756_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=DHu1kmyUEpoQ7kNvwG7UHNz&_nc_oc=AdnMUpVTepl0lynNbNoVUEHzJ4RbmJVFW3SMJTLDpr6SMVswITla-r4gI7f4SmfgPkU&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KZfVtJscnzUhWCyQd0TVLA&oh=00_AfvruYn-el_zPKEHGhRJVj8WxKomTNJhOhBHyCSKXLBwKg&oe=69A00766",
-            "media_type": "IMAGE"
-          }
-        ]
-      },
+      "media_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/622053273_18560021008007168_1098539267871890921_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=J_VdZmJEnYUQ7kNvwEYwPk8&_nc_oc=AdnJyw4FfaW_n_iayD0RiI3WlZcmQVN5ZPWUz4C61sECpkGyLk53AXDaP99OxwSQuEo&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=s1z3ybjw971Gki062j2Jvg&oh=00_AfuXXZRnQvVpNrQiRjPJ2UW9XgrcfkIA6UMu1--ChVtKVw&oe=69A050AE",
       "username": "admisionusm",
       "category": "usm",
-      "profile_picture_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.75761-15/504326030_18516096751007168_8279246841770563780_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=7d201b&_nc_ohc=asP0xEt48acQ7kNvwFlwah7&_nc_oc=Adnwhh6i1pD-1B28NuXoCX9X6j_umBsuz-ik-BVSMk5zjWW--W8kN03HCyqPyPe0zfs&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AL-3X8kEAAAA&_nc_gid=KZfVtJscnzUhWCyQd0TVLA&oh=00_AfuQEpZ5DbahICP5WeDH1dq_wvIfctqzAchhURRgNfxA7w&oe=69A03054"
+      "profile_picture_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t51.75761-15/504326030_18516096751007168_8279246841770563780_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=7d201b&_nc_ohc=Bgb66bQkqxwQ7kNvwFDDQwP&_nc_oc=AdlIXm2E3LF9AOxyLkuyzOz33Zs_2kTZM1dk1JvC5R72A7lCC_YuOXX3RELfWCKScbo&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AL-3X8kEAAAA&_nc_gid=s1z3ybjw971Gki062j2Jvg&oh=00_AfunwWzYSeO4keWZ1gQMpHdGxJiy2cH1qt3a159ij2ZNEg&oe=69A03054"
     },
     {
       "timestamp": "2026-01-26T12:06:04+0000",
       "caption": "Hora de recargar energ\u00edas \ud83d\ude0c\n\nLa comunidad USM comienza su receso de verano.\n\n\u00a1Nos vemos el 23 de febrero!\n\n#USM #ComunidadUSM",
       "media_type": "VIDEO",
       "permalink": "https://www.instagram.com/reel/DT-SaZ_jm98/",
-      "media_url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m86/AQPZ24lw2ww9BTBdip9avtACH2ZFVXMNCUi0IpAy9U3ou5rcBDKN5unZte75jlkD3DMj3ep2nsxlhcr8bFpDRBZ6kozeX3rQga3GaLI.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=GnFzSBfNRYoQ7kNvwEmkG8X&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5NDEzNTI3NzgxMDc2NjcsImFzc2V0X2FnZV9kYXlzIjoyNiwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjE3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=da7ab2f3d3823556&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85QzRDODBFNkE0NTQ1NzhENzE1NzQzNjE4N0VGQjM4NV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0M3NDA4RDU2ODYzRUY4QzgzMjMzNTkyOUQ5NzY1RTg3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACamrIjyluTePxUCKAJDMywXQDGAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=KKj_rlbMnoUnVe5plLsuSg&edm=AL-3X8kEAAAA&_nc_zt=28&oh=00_Afv5dAc72anKMWhoEOobyoBfVCdOrE8F6uONSIxPZb8L3g&oe=699C1072",
+      "media_url": "https://scontent-ord5-1.cdninstagram.com/o1/v/t2/f2/m86/AQPZ24lw2ww9BTBdip9avtACH2ZFVXMNCUi0IpAy9U3ou5rcBDKN5unZte75jlkD3DMj3ep2nsxlhcr8bFpDRBZ6kozeX3rQga3GaLI.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_ohc=GnFzSBfNRYoQ7kNvwHkpte9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5NDEzNTI3NzgxMDc2NjcsImFzc2V0X2FnZV9kYXlzIjoyNiwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjE3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=da7ab2f3d3823556&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85QzRDODBFNkE0NTQ1NzhENzE1NzQzNjE4N0VGQjM4NV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0M3NDA4RDU2ODYzRUY4QzgzMjMzNTkyOUQ5NzY1RTg3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACamrIjyluTePxUCKAJDMywXQDGAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=H5oIvLmnH-Vd0HC7TtgZlg&edm=AL-3X8kEAAAA&_nc_zt=28&oh=00_AfvFbPwjKgAMtj9KTc3coVALkV99nNu--q-E9CWespxU0w&oe=699C48B2",
       "username": "usantamaria",
       "category": "usm",
-      "profile_picture_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.2885-15/333311771_748166123485963_3208501232235070666_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7d201b&_nc_ohc=UT4YvcdmUW0Q7kNvwFBFphQ&_nc_oc=AdltSwTbNnXwXaBnVGsnQqEwsmX-tK1T_nix6V94X8cR-BEiRUHpTFnRCIUZjnmBsMQ&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AL-3X8kEAAAA&oh=00_Afv8PI0oBkumYaD27fiWyd3jn1r8pQeZwmlzzkPkxmwKbA&oe=69A003AD"
+      "profile_picture_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t51.2885-15/333311771_748166123485963_3208501232235070666_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7d201b&_nc_ohc=UT4YvcdmUW0Q7kNvwG5ikl7&_nc_oc=AdnhCQiam5nb8Pe0Jr_kVinf639SESHbMb74H6ihDH6US8ONN1XOltCzfXCkrCgjYrk&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AL-3X8kEAAAA&oh=00_AftBxBdWzURsnVIejefXzi4auVX2K6a3OvPaiT-4oNf7_g&oe=69A03BED"
     },
     {
       "timestamp": "2026-01-23T20:50:49+0000",
       "caption": "\u00a1El Sur nos necesita!\nTu aporte hace la diferencia \ud83e\udd0d\nCompartimos informaci\u00f3n sobre recursos urgentes para apoyar a la zona sur afectada por los incendios.\n\n\u00bfQu\u00e9 puedes donar?\n\u2705 Agua y bebidas isot\u00f3nicas\n\u2705 Alimentos no perecibles y para mascotas\n\u2705 \u00datiles de aseo personal y limpieza\n\u2705 Ropa NUEVA\n\n\ud83d\udeab No llevar ropa usada, alimentos vencidos ni bater\u00edas.\n\n\ud83d\udccd \u00bfD\u00f3nde ir?\nRevisa las im\u00e1genes para encontrar centros de acopio activos en distintas comunas (Santiago, Maip\u00fa, Puente Alto, La Florida, Las Condes y m\u00e1s).\n\n\u26a0\ufe0f Como Centro de Alumnos, no somos punto de acopio. Nuestro rol es difundir informaci\u00f3n confiable para que la ayuda llegue a donde m\u00e1s se necesita.\n\n\u00a1Comparte esta informaci\u00f3n y apoyemos juntos! \ud83e\udd1d",
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DT3gNGVlfxG/",
-      "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/621842262_18161704897408960_61528245594642504_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=QcRu4Hx3lHAQ7kNvwHw2MDG&_nc_oc=AdnI0bXROz96y6Sbei4BvPZ0TgeZKMogbr0AoZ8AKSm4BpGsQLAxzBNXtWm0Khx2160&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=HPyOmVAUeExU163qGPWR4g&oh=00_AfubEAuaSlvlFCg8FfvKAzDXO9XvoULXeIu_Js6Yf1-O4w&oe=69A008E7",
-      "children": {
-        "data": [
-          {
-            "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/621842262_18161704897408960_61528245594642504_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=QcRu4Hx3lHAQ7kNvwHw2MDG&_nc_oc=AdnI0bXROz96y6Sbei4BvPZ0TgeZKMogbr0AoZ8AKSm4BpGsQLAxzBNXtWm0Khx2160&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=HPyOmVAUeExU163qGPWR4g&oh=00_AfubEAuaSlvlFCg8FfvKAzDXO9XvoULXeIu_Js6Yf1-O4w&oe=69A008E7",
-            "media_type": "IMAGE"
-          },
-          {
-            "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/621812327_18161704906408960_1838900059142944962_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=GXNSHDAqfjMQ7kNvwF4Wate&_nc_oc=AdnprNomliL-B18u66zV7wCePH_IPyamtqdkPehcmGuDWjwnHkouMel1ocD0Nng4xsk&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=HPyOmVAUeExU163qGPWR4g&oh=00_AfuHFlw9PbPrTSybtKJzOS4mE9lGvqZtTzJ7JyRfPZ7b0w&oe=69A01B58",
-            "media_type": "IMAGE"
-          },
-          {
-            "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/621806810_18161704915408960_8599096462669583747_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=vDYadX3_PGEQ7kNvwGsMg-6&_nc_oc=Admb9T_6LberNqu6FfR8SDb67dzsPzLxzfqZiisauMVxy3fgpnnOGabCTc2hN1iiNW4&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=HPyOmVAUeExU163qGPWR4g&oh=00_AfsIPGev9SsZqLbiLOrXZid4qL8zjjtwSJe0e0pEC1LPXA&oe=69A017A4",
-            "media_type": "IMAGE"
-          },
-          {
-            "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/621818144_18161704924408960_7824201049861328521_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=43pc1HkbUXEQ7kNvwFzwnxR&_nc_oc=Adk3swvB2B_Hnv6dh2Y4eeCNh3jR9fsRQdX8r7BNe5L-LtLkTnRIubJnJrQplOyh_l4&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=HPyOmVAUeExU163qGPWR4g&oh=00_Aft3Cg0dey1POSZTK_ARBLFMQtAwSXIZ7darA_F-_1qcnQ&oe=69A012F2",
-            "media_type": "IMAGE"
-          },
-          {
-            "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/621724840_18161704933408960_8358897935448341923_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=NP_n2Qn1s9wQ7kNvwEfAanW&_nc_oc=AdkJt4yTFYyN6kRFWqA1k730a3sJNfvFaI6-SHRClbdrcYwpbh0k-3k-nb1T9Iz2F7Y&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=HPyOmVAUeExU163qGPWR4g&oh=00_Afs5nIb9xqa3LEyhKyb7kTea30UoQjiLLRXxHgxs_57QbA&oe=69A0100A",
-            "media_type": "IMAGE"
-          },
-          {
-            "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/621742190_18161704945408960_5031080279245687543_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=OLLX28k6zicQ7kNvwEGFjyD&_nc_oc=AdkIIC_FF2MEQVzoJuHJb8qGBB9fDbPAwKVtuG0ACPcMH3b47QBKvbsmZ7OELsHJh2g&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=HPyOmVAUeExU163qGPWR4g&oh=00_AfsctcHvGQjQS-UsXTKin2j1nkoQnPKyn1N-2p6jfZ0MEg&oe=69A014B6",
-            "media_type": "IMAGE"
-          },
-          {
-            "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/621726538_18161704954408960_8128825001006431514_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=SjqsZOkPkdUQ7kNvwGkU0tK&_nc_oc=AdlKrU1dG5yY0SKMIhYhUdiwLVBCiJn_iv4oK4_cJiXEIJv0ugNSVKn3kwjHEHvNv08&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=HPyOmVAUeExU163qGPWR4g&oh=00_AfvTyaBJVvkUZdv4068_rWfm2aXbIPpUfXHtSleTooq6ig&oe=69A01C11",
-            "media_type": "IMAGE"
-          },
-          {
-            "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/621728537_18161704963408960_3051031171825331572_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=vohlYoEzDcgQ7kNvwFwTIgL&_nc_oc=Adklz7XmVXAgflaaBCJbgS3cuV8GFJuauUh5YLBjNgVahX_B_lrTgw33plv1ddmrMNc&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=HPyOmVAUeExU163qGPWR4g&oh=00_Afu3GvZbdA0fkfX1c986sLZzUUv7KQD-VIRh00Gp75JoPg&oe=69A018FC",
-            "media_type": "IMAGE"
-          }
-        ]
-      },
+      "media_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/621842262_18161704897408960_61528245594642504_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=QcRu4Hx3lHAQ7kNvwHEDt7n&_nc_oc=AdlM4TTZPpQXtW0gnZhZkmum5ihx0MoAmqsKQ8wnztKi73A2Ikc3pcofD3T5yMTDHYs&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=9THDEFoPGrEnE8e3N1rP8A&oh=00_AftQU4mMdu3qguKaZFSGx7wNAYox12X5wCfcAl_QP4Vlmg&oe=69A04127",
       "username": "ceeinf_sj",
       "category": "centros",
-      "profile_picture_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-15/523317903_18142511356408960_8282479186824925777_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=7d201b&_nc_ohc=RjGDZn6S0GYQ7kNvwHSxA7P&_nc_oc=AdlQwhfTabV51gzBbUtHsP0hSxHsZzm4fX1sSujXKfIVN_yRuq1n96fIImymMdCOVCY&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AL-3X8kEAAAA&_nc_gid=HPyOmVAUeExU163qGPWR4g&oh=00_AfsY_oqF95LW3sUCuiKzf00CEjKy0Hg64CZPSt9KZJa5Tg&oe=699FFE9E"
+      "profile_picture_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t51.82787-15/523317903_18142511356408960_8282479186824925777_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=7d201b&_nc_ohc=RjGDZn6S0GYQ7kNvwGZAipz&_nc_oc=AdlwQWwoK67ABzjHvGaIb36I70Tnz8DO0lGMR8dek3TaabAkEnnzncGzjudotMsmMAc&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AL-3X8kEAAAA&_nc_gid=9THDEFoPGrEnE8e3N1rP8A&oh=00_Afs29e-rL-TxOOCCn15Sck90VgVttraEDWDPgXfdH2zy3A&oe=69A036DE"
     },
     {
       "timestamp": "2026-01-23T14:41:23+0000",
       "caption": "\u00bfEres un referente en Ingenier\u00eda, Tecnolog\u00eda o \u00e1reas afines?\nLa Multiconferencia LACCEI 2026 \u2013 Santiago de Chile te invita a formar parte de su Comit\u00e9 Internacional de Revisores.\n\nBuscamos doctores, mag\u00edster, investigadores y profesionales con m\u00e1s de 15 a\u00f1os de experiencia en Educaci\u00f3n Superior, comprometidos con el avance del conocimiento y la calidad acad\u00e9mica.\n\nBeneficios de ser revisor LACCEI 2026:\n* Certificaci\u00f3n oficial LACCEI\n* Reconocimiento acad\u00e9mico internacional\n* Conexi\u00f3n con una red global de especialistas en Ingenier\u00eda, Tecnolog\u00eda y disciplinas relacionadas\n\n\u00danete y contribuye al desarrollo cient\u00edfico de Am\u00e9rica Latina y el Caribe.\n\nPuedes revisar detalles en: https://postgrado.usm.cl/noticias/convocatoria-de-articulos-laccei-2026/",
       "media_type": "IMAGE",
       "permalink": "https://www.instagram.com/p/DT217TekSH-/",
-      "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/621304893_17973652418995213_7468697147838414574_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=aGv53Zu5894Q7kNvwEVrSKm&_nc_oc=AdnoWVv0gIy0dK3QVqCYgxtyulqicjYP-cHUWAkz3bkAz5pXfb0GN2X1aY61UoaNPxg&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=IkF16Vx8KvMGdG9e26tebA&oh=00_AftAjanO5uyvyPPSeAab59RYykwSCgGOONkuqgBiQDttQQ&oe=69A00465",
+      "media_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/621304893_17973652418995213_7468697147838414574_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=aGv53Zu5894Q7kNvwGo_qUT&_nc_oc=AdkTzmXbAQkcT5OOxxC7hiD0EmHdSL1oMGTa2RFdlxAUC_cBfE3_Ysg1Zm9yE_5SaYU&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=-7Em7QHIg7kO2B_2PucNbg&oh=00_AfuFjXXnaP1mpBEW5isL6qbpDjToy4zINvjzTCFLAaFfHQ&oe=69A03CA5",
       "username": "postgrados_usm",
       "category": "usm",
-      "profile_picture_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.2885-15/372723594_580252560782954_4025229571385446297_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=7d201b&_nc_ohc=x4SmVC1Q-xUQ7kNvwEXbChm&_nc_oc=AdnLiPzJdhCzccXH15oqPj-GBu4R_TmMpk9eV3N-04fPRRnHFE8n65dcLsyo0YbhIGg&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AL-3X8kEAAAA&oh=00_Afuny1mumTLYjjPsPtEUvdgZ3qBuAch9yrW2PHuSRvhd3w&oe=69A0038D"
+      "profile_picture_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t51.2885-15/372723594_580252560782954_4025229571385446297_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=7d201b&_nc_ohc=x4SmVC1Q-xUQ7kNvwGspyrR&_nc_oc=AdmY6O0C9Mo5NHMywroFQrL6BStMKvt3clZgYr746DZl47wk_8gKAkT7RELT0yDLueg&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AL-3X8kEAAAA&oh=00_Afvqw6rzFYcXGtP0FbUh6my46XgJt8XyZijTxc40n0LqUQ&oe=69A03BCD"
     },
     {
       "timestamp": "2026-01-23T12:26:25+0000",
       "caption": "\u2705Segundo Per\u00edodo de Matr\u00edculas \u2013 Admisi\u00f3n 2026\n\n\ud83d\uddd3\ufe0f Desde el 23 al 29 de enero\n\ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb\ud83d\udc68\ud83c\udffb\u200d\ud83d\udcbb Proceso 100% online a trav\u00e9s de usm.cl\n\ud83e\udd1d Si necesitas asistencia presencial, puedes visitar nuestros campus y sedes de 9:00 a 17:00 horas.\n\ud83d\udcac Resuelve tus dudas a trav\u00e9s de nuestro chat en usm.cl\n\ud83d\udcde o en el call center +56 32 265 4600\n\u00a1Te esperamos en la Universidad STEM de Chile! \ud83d\udc99\ud83d\udcda\n\n#matr\u00edculas #USM #ingenier\u00edas #Admisi\u00f3n2026",
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.instagram.com/p/DT2meuIjiZ-/",
-      "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/621657940_18558901861007168_165019258846550697_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=pai_BdRNFv8Q7kNvwH86cwq&_nc_oc=AdkZb3lGvxKB4ZLyfd09mb3H-Wx5KSh7y6_G47r0GOK6uKB3pbVdjhkz6KGaT6G1KJ8&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KZfVtJscnzUhWCyQd0TVLA&oh=00_AfsuLra1MWdvfn9XHjWVDgHA2X9VeaX1ZA3XWT3x0o_eHw&oe=69A00FA0",
-      "children": {
-        "data": [
-          {
-            "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/621657940_18558901861007168_165019258846550697_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=pai_BdRNFv8Q7kNvwH86cwq&_nc_oc=AdkZb3lGvxKB4ZLyfd09mb3H-Wx5KSh7y6_G47r0GOK6uKB3pbVdjhkz6KGaT6G1KJ8&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KZfVtJscnzUhWCyQd0TVLA&oh=00_AfsuLra1MWdvfn9XHjWVDgHA2X9VeaX1ZA3XWT3x0o_eHw&oe=69A00FA0",
-            "media_type": "IMAGE"
-          },
-          {
-            "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/620164942_18558901870007168_1960558487422158369_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Fy9enbbjlscQ7kNvwHvpFHk&_nc_oc=AdmfO9e5OErFWSuhz7ILsYzH7-9d1iLfCCIdDZPI8iDq__UoNzw_wCXZEU-H_nWWb3I&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KZfVtJscnzUhWCyQd0TVLA&oh=00_Afu8AkFMdZC5YwWsUxID0nQtelWJEfK6SQo5o_kXcj0bnA&oe=69A01C59",
-            "media_type": "IMAGE"
-          }
-        ]
-      },
+      "media_url": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/621657940_18558901861007168_165019258846550697_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=pai_BdRNFv8Q7kNvwFgEdHE&_nc_oc=Adm02NPEqrsnuqarlIECr2B_0uIklJNfNcWKp-qNCeAhz5Q0I9Eqvbm5yLwQ5NcOX_8&_nc_zt=23&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=s1z3ybjw971Gki062j2Jvg&oh=00_AftJpQCCuCcNtZpuk9LX_upof9aPzP8Z4Jz9712Hfa6Rpg&oe=69A047E0",
       "username": "admisionusm",
       "category": "usm",
-      "profile_picture_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.75761-15/504326030_18516096751007168_8279246841770563780_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=7d201b&_nc_ohc=asP0xEt48acQ7kNvwFlwah7&_nc_oc=Adnwhh6i1pD-1B28NuXoCX9X6j_umBsuz-ik-BVSMk5zjWW--W8kN03HCyqPyPe0zfs&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AL-3X8kEAAAA&_nc_gid=KZfVtJscnzUhWCyQd0TVLA&oh=00_AfuQEpZ5DbahICP5WeDH1dq_wvIfctqzAchhURRgNfxA7w&oe=69A03054"
+      "profile_picture_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t51.75761-15/504326030_18516096751007168_8279246841770563780_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=7d201b&_nc_ohc=Bgb66bQkqxwQ7kNvwFDDQwP&_nc_oc=AdlIXm2E3LF9AOxyLkuyzOz33Zs_2kTZM1dk1JvC5R72A7lCC_YuOXX3RELfWCKScbo&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AL-3X8kEAAAA&_nc_gid=s1z3ybjw971Gki062j2Jvg&oh=00_AfunwWzYSeO4keWZ1gQMpHdGxJiy2cH1qt3a159ij2ZNEg&oe=69A03054"
     }
   ]
 }
